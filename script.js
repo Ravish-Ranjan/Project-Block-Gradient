@@ -20,15 +20,46 @@ function hexToHSL(hex) {
         h /= 6;
     }
     var HSL = new Object();
-    HSL['h']=h;
-    HSL['s']=s;
-    HSL['l']=l;
+    HSL['h']=Math.round(h*360);
+    HSL['s']=s.toFixed(2);
+    HSL['l']=l.toFixed(2);
     return HSL;
 }
-function gradientSet() {
-    from_ = document.getElementById('from').value;
-    to = document.getElementById('to').value;
-    divi = document.getElementsByClassName('color-range')[0];
-    divi.style.backgroundImage = `linear-gradient(to bottom,${from_},${to})`;
+
+let from_ = document.getElementById('from');
+let to = document.getElementById('to');
+
+const HEXer = (color) => {
+    const hexadecimal = color.toString(16);
+    return hexadecimal.length == 1 ? "0" + hexadecimal : hexadecimal;
 }
-gradientSet()
+
+const RGBtoHex = (red, green, blue) => {return "#"+HEXer(red)+HEXer(green)+HEXer(blue);}
+
+function gradientSet(fromcolor,tocolor) {
+    divi = document.getElementsByClassName('color-range')[0];
+    divi.style.backgroundImage = `linear-gradient(to bottom,${fromcolor},${tocolor})`;
+}
+
+function randnum(){ return Math.floor(Math.random() * 255);}
+
+function randgen() {
+    fromcol = RGBtoHex(randnum(),randnum(),randnum());
+    tocol = RGBtoHex(randnum(),randnum(),randnum());
+    gradientSet(`${fromcol}`,`${tocol}`);
+    from_.value = fromcol;
+    to.value = tocol;
+}
+function rangeSet() {
+    document.getElementById('custsize').value = document.getElementById('size').value;
+}
+
+function getInputs() {
+    from_color = hexToHSL(from_.value);
+    to_color = hexToHSL(to.value);
+    rangeInp = document.getElementById('size').value;
+    numInp = document.getElementById('custsize').value;
+    blockNo = parseInt(numInp == "" ? rangeInp : numInp);
+    console.log(from_color,to_color,blockNo);
+}
+randgen();
