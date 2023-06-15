@@ -1,0 +1,12 @@
+EAS:
+from color input
+to color input
+randomize
+no. of blocks
+	4/9/25/custom
+inclued transparent blocks
+includew exclusive blocks
+generate
+regenerate
+
+blocks output

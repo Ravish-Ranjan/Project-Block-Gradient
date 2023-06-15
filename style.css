@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* outline: 2px solid lime; */
+}
+body{
+    display: grid;
+    place-content: center;
+    background-image: url('backg.jpg');
+    background-size: cover;
+}
+.cont-wrapper{
+    height: 80vh;
+    width: 90vw;
+    display: flex;
+    backdrop-filter: blur(12px);
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.color-range{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+#from,#to{
+    border: none;
+    background-color: transparent;
+    aspect-ratio: 1/1;
+}

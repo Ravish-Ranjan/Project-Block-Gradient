@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="cont-wrapper">
+            <div class="color-range">
+                <input type="color" title="color range starting" value="#7084da" oninput="gradientSet()" name="from" id="from">
+                <button onclick="randgen()" id="randcolor">R</button>
+                <input type="color" title="color range ending" value="#63d17d" oninput="gradientSet()" name="to" id="to">
+            </div>
+            <div class="input-size">
+                <h1>Pallet Size</h1>
+                <input type="range" name="size" id="size" min="5" max="25" value="5" step="5">
+                <input type="number" name="custsize" id="custsize" min="5" max="25" placeholder="Enter custom size">
+            </div>
+            <div class="control">
+                <input type="checkbox" name="trans" id="trans">
+                <label for="trans">Include Transparent Blocks</label>
+                <input type="checkbox" name="excl" id="excl">
+                <label for="trans" title="Blocks obtained only in creative or by commands">Include Exclusive Blocks</label>
+                <button id="generate">generate</button>
+            </div>
+            <div class="output"></div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>

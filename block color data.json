@@ -1,0 +1,4951 @@
+[
+    {
+        "name": "acacia_door",
+        "path": "C:/sem4/vs code/import files/blocks/acacia_door.png",
+        "color": [19.0,0.46,0.19,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "acacia_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/acacia_hanging_sign.png",
+        "color": [21.0,0.49,0.2,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "acacia_log",
+        "path": "C:/sem4/vs code/import files/blocks/acacia_log.png",
+        "color": [35.0,0.09,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "acacia_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/acacia_log_top.png",
+        "color": [21.0,0.46,0.4,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "acacia_planks",
+        "path": "C:/sem4/vs code/import files/blocks/acacia_planks.png",
+        "color": [20.0,0.54,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "acacia_sign",
+        "path": "C:/sem4/vs code/import files/blocks/acacia_sign.png",
+        "color": [22.0,0.51,0.18,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "acacia_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/acacia_trapdoor.png",
+        "color": [20.0,0.51,0.31,0.76],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "amethyst_block",
+        "path": "C:/sem4/vs code/import files/blocks/amethyst_block.png",
+        "color": [263.0,0.42,0.56,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "amethyst_cluster",
+        "path": "C:/sem4/vs code/import files/blocks/amethyst_cluster.png",
+        "color": [267.0,0.24,0.36,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "ancient_debris_side",
+        "path": "C:/sem4/vs code/import files/blocks/ancient_debris_side.png",
+        "color": [12.0,0.27,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "ancient_debris_top",
+        "path": "C:/sem4/vs code/import files/blocks/ancient_debris_top.png",
+        "color": [13.0,0.24,0.3,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "andesite",
+        "path": "C:/sem4/vs code/import files/blocks/andesite.png",
+        "color": [0.0,0.0,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "anvil",
+        "path": "C:/sem4/vs code/import files/blocks/anvil.png",
+        "color": [0.0,0.0,0.27,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "azalea_leaves",
+        "path": "C:/sem4/vs code/import files/blocks/azalea_leaves.png",
+        "color": [81.0,0.44,0.24,0.77],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "azalea_plant",
+        "path": "C:/sem4/vs code/import files/blocks/azalea_plant.png",
+        "color": [77.0,0.45,0.22,0.74],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "azalea_side",
+        "path": "C:/sem4/vs code/import files/blocks/azalea_side.png",
+        "color": [80.0,0.44,0.19,0.6],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "azalea_top",
+        "path": "C:/sem4/vs code/import files/blocks/azalea_top.png",
+        "color": [78.0,0.45,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_block",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_block.png",
+        "color": [72.0,0.43,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_block_top",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_block_top.png",
+        "color": [62.0,0.39,0.4,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_door",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_door.png",
+        "color": [49.0,0.42,0.25,0.48],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_fence",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_fence.png",
+        "color": [49.0,0.4,0.38,0.66],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_fence_gate",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_fence_gate.png",
+        "color": [50.0,0.4,0.35,0.6],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_hanging_sign.png",
+        "color": [49.0,0.37,0.27,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_mosaic",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_mosaic.png",
+        "color": [49.0,0.46,0.52,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_planks",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_planks.png",
+        "color": [49.0,0.47,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_sign",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_sign.png",
+        "color": [50.0,0.41,0.25,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "bamboo_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/bamboo_trapdoor.png",
+        "color": [50.0,0.4,0.46,0.82],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "barrel_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/barrel_bottom.png",
+        "color": [33.0,0.41,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "barrel_side",
+        "path": "C:/sem4/vs code/import files/blocks/barrel_side.png",
+        "color": [33.0,0.36,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "barrel_top",
+        "path": "C:/sem4/vs code/import files/blocks/barrel_top.png",
+        "color": [33.0,0.4,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "basalt_side",
+        "path": "C:/sem4/vs code/import files/blocks/basalt_side.png",
+        "color": [252.0,0.03,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "basalt_top",
+        "path": "C:/sem4/vs code/import files/blocks/basalt_top.png",
+        "color": [230.0,0.04,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "beacon",
+        "path": "C:/sem4/vs code/import files/blocks/beacon.png",
+        "color": [177.0,0.59,0.66,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bedrock",
+        "path": "C:/sem4/vs code/import files/blocks/bedrock.png",
+        "color": [0.0,0.0,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "beehive_end",
+        "path": "C:/sem4/vs code/import files/blocks/beehive_end.png",
+        "color": [37.0,0.37,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "beehive_front",
+        "path": "C:/sem4/vs code/import files/blocks/beehive_front.png",
+        "color": [37.0,0.35,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "beehive_front_honey",
+        "path": "C:/sem4/vs code/import files/blocks/beehive_front_honey.png",
+        "color": [37.0,0.39,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "beehive_side",
+        "path": "C:/sem4/vs code/import files/blocks/beehive_side.png",
+        "color": [37.0,0.35,0.45,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bee_nest_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/bee_nest_bottom.png",
+        "color": [33.0,0.3,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bee_nest_front",
+        "path": "C:/sem4/vs code/import files/blocks/bee_nest_front.png",
+        "color": [36.0,0.42,0.51,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bee_nest_front_honey",
+        "path": "C:/sem4/vs code/import files/blocks/bee_nest_front_honey.png",
+        "color": [38.0,0.49,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bee_nest_side",
+        "path": "C:/sem4/vs code/import files/blocks/bee_nest_side.png",
+        "color": [37.0,0.5,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bee_nest_top",
+        "path": "C:/sem4/vs code/import files/blocks/bee_nest_top.png",
+        "color": [40.0,0.54,0.54,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bell",
+        "path": "C:/sem4/vs code/import files/blocks/bell.png",
+        "color": [41.0,0.51,0.22,0.44],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "birch_door",
+        "path": "C:/sem4/vs code/import files/blocks/birch_door.png",
+        "color": [50.0,0.12,0.39,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "birch_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/birch_hanging_sign.png",
+        "color": [45.0,0.23,0.27,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "birch_log",
+        "path": "C:/sem4/vs code/import files/blocks/birch_log.png",
+        "color": [50.0,0.07,0.83,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "birch_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/birch_log_top.png",
+        "color": [46.0,0.32,0.64,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "birch_planks",
+        "path": "C:/sem4/vs code/import files/blocks/birch_planks.png",
+        "color": [46.0,0.36,0.61,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "birch_sign",
+        "path": "C:/sem4/vs code/import files/blocks/birch_sign.png",
+        "color": [44.0,0.22,0.26,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "birch_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/birch_trapdoor.png",
+        "color": [44.0,0.34,0.71,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blackstone",
+        "path": "C:/sem4/vs code/import files/blocks/blackstone.png",
+        "color": [317.0,0.09,0.15,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blackstone_top",
+        "path": "C:/sem4/vs code/import files/blocks/blackstone_top.png",
+        "color": [310.0,0.08,0.15,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "black_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/black_concrete.png",
+        "color": [223.0,0.3,0.04,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "black_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/black_concrete_powder.png",
+        "color": [230.0,0.11,0.11,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "black_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/black_glazed_terracotta.png",
+        "color": [357.0,0.38,0.19,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "black_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/black_shulker_box.png",
+        "color": [240.0,0.07,0.11,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "black_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/black_stained_glass.png",
+        "color": [0.0,0.0,0.1,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "black_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/black_stained_glass_pane_top.png",
+        "color": [0.0,0.0,0.01,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "black_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/black_terracotta.png",
+        "color": [17.0,0.4,0.1,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "black_wool",
+        "path": "C:/sem4/vs code/import files/blocks/black_wool.png",
+        "color": [228.0,0.11,0.09,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blast_furnace_front",
+        "path": "C:/sem4/vs code/import files/blocks/blast_furnace_front.png",
+        "color": [0.0,0.0,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blast_furnace_front_on",
+        "path": "C:/sem4/vs code/import files/blocks/blast_furnace_front_on.png",
+        "color": [30.0,0.05,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blast_furnace_side",
+        "path": "C:/sem4/vs code/import files/blocks/blast_furnace_side.png",
+        "color": [0.0,0.0,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blast_furnace_top",
+        "path": "C:/sem4/vs code/import files/blocks/blast_furnace_top.png",
+        "color": [240.0,0.01,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blue_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/blue_concrete.png",
+        "color": [239.0,0.53,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blue_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/blue_concrete_powder.png",
+        "color": [238.0,0.41,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blue_dye",
+        "path": "C:/sem4/vs code/import files/blocks/blue_dye.png",
+        "color": [220.0,0.59,0.13,0.33],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "blue_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/blue_glazed_terracotta.png",
+        "color": [229.0,0.49,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blue_ice",
+        "path": "C:/sem4/vs code/import files/blocks/blue_ice.png",
+        "color": [218.0,0.96,0.72,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blue_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/blue_shulker_box.png",
+        "color": [239.0,0.53,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blue_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/blue_stained_glass_pane_top.png",
+        "color": [228.0,0.56,0.05,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "blue_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/blue_terracotta.png",
+        "color": [268.0,0.21,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "blue_wool",
+        "path": "C:/sem4/vs code/import files/blocks/blue_wool.png",
+        "color": [238.0,0.5,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bone_block_side",
+        "path": "C:/sem4/vs code/import files/blocks/bone_block_side.png",
+        "color": [49.0,0.29,0.85,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bone_block_top",
+        "path": "C:/sem4/vs code/import files/blocks/bone_block_top.png",
+        "color": [54.0,0.24,0.76,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bookshelf",
+        "path": "C:/sem4/vs code/import files/blocks/bookshelf.png",
+        "color": [36.0,0.33,0.34,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brain_coral",
+        "path": "C:/sem4/vs code/import files/blocks/brain_coral.png",
+        "color": [324.0,0.4,0.24,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "brain_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/brain_coral_block.png",
+        "color": [325.0,0.54,0.58,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brain_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/brain_coral_fan.png",
+        "color": [325.0,0.42,0.21,0.37],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "bricks",
+        "path": "C:/sem4/vs code/import files/blocks/bricks.png",
+        "color": [13.0,0.29,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brown_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/brown_concrete.png",
+        "color": [26.0,0.51,0.25,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brown_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/brown_concrete_powder.png",
+        "color": [26.0,0.4,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brown_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/brown_glazed_terracotta.png",
+        "color": [37.0,0.17,0.4,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brown_mushroom_block",
+        "path": "C:/sem4/vs code/import files/blocks/brown_mushroom_block.png",
+        "color": [26.0,0.3,0.45,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brown_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/brown_shulker_box.png",
+        "color": [26.0,0.5,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brown_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/brown_stained_glass.png",
+        "color": [29.0,0.33,0.3,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "brown_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/brown_stained_glass_pane_top.png",
+        "color": [30.0,0.33,0.04,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "brown_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/brown_terracotta.png",
+        "color": [23.0,0.38,0.22,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "brown_wool",
+        "path": "C:/sem4/vs code/import files/blocks/brown_wool.png",
+        "color": [25.0,0.48,0.3,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bubble_coral",
+        "path": "C:/sem4/vs code/import files/blocks/bubble_coral.png",
+        "color": [301.0,0.75,0.19,0.52],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "bubble_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/bubble_coral_block.png",
+        "color": [301.0,0.73,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "bubble_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/bubble_coral_fan.png",
+        "color": [301.0,0.67,0.16,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "budding_amethyst",
+        "path": "C:/sem4/vs code/import files/blocks/budding_amethyst.png",
+        "color": [264.0,0.39,0.55,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cactus_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/cactus_bottom.png",
+        "color": [79.0,0.33,0.38,0.76],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cactus_side",
+        "path": "C:/sem4/vs code/import files/blocks/cactus_side.png",
+        "color": [90.0,0.48,0.3,0.89],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cactus_top",
+        "path": "C:/sem4/vs code/import files/blocks/cactus_top.png",
+        "color": [90.0,0.49,0.25,0.76],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cake_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/cake_bottom.png",
+        "color": [18.0,0.62,0.25,0.76],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cake_inner",
+        "path": "C:/sem4/vs code/import files/blocks/cake_inner.png",
+        "color": [21.0,0.38,0.16,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cake_side",
+        "path": "C:/sem4/vs code/import files/blocks/cake_side.png",
+        "color": [22.0,0.25,0.28,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cake_top",
+        "path": "C:/sem4/vs code/import files/blocks/cake_top.png",
+        "color": [14.0,0.16,0.69,0.76],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "calcite",
+        "path": "C:/sem4/vs code/import files/blocks/calcite.png",
+        "color": [75.0,0.06,0.87,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "campfire",
+        "path": "C:/sem4/vs code/import files/blocks/campfire.png",
+        "color": [33.0,0.51,0.19,0.49],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cartography_table_side1",
+        "path": "C:/sem4/vs code/import files/blocks/cartography_table_side1.png",
+        "color": [27.0,0.35,0.2,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cartography_table_side2",
+        "path": "C:/sem4/vs code/import files/blocks/cartography_table_side2.png",
+        "color": [29.0,0.32,0.24,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cartography_table_side3",
+        "path": "C:/sem4/vs code/import files/blocks/cartography_table_side3.png",
+        "color": [29.0,0.54,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cartography_table_top",
+        "path": "C:/sem4/vs code/import files/blocks/cartography_table_top.png",
+        "color": [33.0,0.21,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "carved_pumpkin",
+        "path": "C:/sem4/vs code/import files/blocks/carved_pumpkin.png",
+        "color": [30.0,0.8,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cauldron_inner",
+        "path": "C:/sem4/vs code/import files/blocks/cauldron_inner.png",
+        "color": [240.0,0.04,0.2,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cauldron_side",
+        "path": "C:/sem4/vs code/import files/blocks/cauldron_side.png",
+        "color": [300.0,0.01,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cauldron_top",
+        "path": "C:/sem4/vs code/import files/blocks/cauldron_top.png",
+        "color": [240.0,0.01,0.17,0.61],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cave_vines",
+        "path": "C:/sem4/vs code/import files/blocks/cave_vines.png",
+        "color": [77.0,0.47,0.16,0.55],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cave_vines_lit",
+        "path": "C:/sem4/vs code/import files/blocks/cave_vines_lit.png",
+        "color": [66.0,0.46,0.17,0.58],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cave_vines_plant",
+        "path": "C:/sem4/vs code/import files/blocks/cave_vines_plant.png",
+        "color": [73.0,0.46,0.15,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cave_vines_plant_lit",
+        "path": "C:/sem4/vs code/import files/blocks/cave_vines_plant_lit.png",
+        "color": [63.0,0.46,0.18,0.62],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "chain",
+        "path": "C:/sem4/vs code/import files/blocks/chain.png",
+        "color": [220.0,0.23,0.03,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "chain_command_block_back",
+        "path": "C:/sem4/vs code/import files/blocks/chain_command_block_back.png",
+        "color": [153.0,0.12,0.56,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chain_command_block_conditional",
+        "path": "C:/sem4/vs code/import files/blocks/chain_command_block_conditional.png",
+        "color": [154.0,0.14,0.57,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chain_command_block_front",
+        "path": "C:/sem4/vs code/import files/blocks/chain_command_block_front.png",
+        "color": [153.0,0.15,0.58,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chain_command_block_side",
+        "path": "C:/sem4/vs code/import files/blocks/chain_command_block_side.png",
+        "color": [152.0,0.14,0.57,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_door",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_door.png",
+        "color": [6.0,0.16,0.37,0.5],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_hanging_sign.png",
+        "color": [358.0,0.2,0.35,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_leaves",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_leaves.png",
+        "color": [338.0,0.28,0.66,0.84],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_log",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_log.png",
+        "color": [329.0,0.24,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_log_top.png",
+        "color": [5.0,0.25,0.63,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_planks",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_planks.png",
+        "color": [7.0,0.47,0.78,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_sapling",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_sapling.png",
+        "color": [327.0,0.16,0.26,0.47],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_sign",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_sign.png",
+        "color": [2.0,0.16,0.33,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cherry_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/cherry_trapdoor.png",
+        "color": [7.0,0.27,0.67,0.86],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "chipped_anvil_top",
+        "path": "C:/sem4/vs code/import files/blocks/chipped_anvil_top.png",
+        "color": [0.0,0.0,0.18,0.62],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_bookshelf_empty",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_bookshelf_empty.png",
+        "color": [36.0,0.37,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_bookshelf_occupied",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_bookshelf_occupied.png",
+        "color": [29.0,0.27,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_bookshelf_side",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_bookshelf_side.png",
+        "color": [37.0,0.35,0.51,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_bookshelf_top",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_bookshelf_top.png",
+        "color": [37.0,0.37,0.52,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_deepslate",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_deepslate.png",
+        "color": [0.0,0.0,0.21,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_nether_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_nether_bricks.png",
+        "color": [348.0,0.34,0.14,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_polished_blackstone",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_polished_blackstone.png",
+        "color": [278.0,0.08,0.2,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_quartz_block",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_quartz_block.png",
+        "color": [37.0,0.21,0.88,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_quartz_block_top",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_quartz_block_top.png",
+        "color": [39.0,0.22,0.88,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_red_sandstone",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_red_sandstone.png",
+        "color": [27.0,0.74,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_sandstone",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_sandstone.png",
+        "color": [46.0,0.43,0.72,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chiseled_stone_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/chiseled_stone_bricks.png",
+        "color": [300.0,0.0,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chorus_flower",
+        "path": "C:/sem4/vs code/import files/blocks/chorus_flower.png",
+        "color": [300.0,0.13,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chorus_flower_dead",
+        "path": "C:/sem4/vs code/import files/blocks/chorus_flower_dead.png",
+        "color": [303.0,0.22,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "chorus_plant",
+        "path": "C:/sem4/vs code/import files/blocks/chorus_plant.png",
+        "color": [300.0,0.24,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "clay",
+        "path": "C:/sem4/vs code/import files/blocks/clay.png",
+        "color": [221.0,0.11,0.66,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "coal_block",
+        "path": "C:/sem4/vs code/import files/blocks/coal_block.png",
+        "color": [0.0,0.03,0.06,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "coal_ore",
+        "path": "C:/sem4/vs code/import files/blocks/coal_ore.png",
+        "color": [0.0,0.0,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "coarse_dirt",
+        "path": "C:/sem4/vs code/import files/blocks/coarse_dirt.png",
+        "color": [26.0,0.34,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cobbled_deepslate",
+        "path": "C:/sem4/vs code/import files/blocks/cobbled_deepslate.png",
+        "color": [240.0,0.02,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cobblestone",
+        "path": "C:/sem4/vs code/import files/blocks/cobblestone.png",
+        "color": [0.0,0.0,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cobweb",
+        "path": "C:/sem4/vs code/import files/blocks/cobweb.png",
+        "color": [200.0,0.02,0.37,0.41],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cocoa_stage2",
+        "path": "C:/sem4/vs code/import files/blocks/cocoa_stage2.png",
+        "color": [27.0,0.59,0.22,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "command_block_front",
+        "path": "C:/sem4/vs code/import files/blocks/command_block_front.png",
+        "color": [23.0,0.32,0.56,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "composter_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/composter_bottom.png",
+        "color": [28.0,0.57,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "composter_compost",
+        "path": "C:/sem4/vs code/import files/blocks/composter_compost.png",
+        "color": [36.0,0.16,0.56,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "composter_ready",
+        "path": "C:/sem4/vs code/import files/blocks/composter_ready.png",
+        "color": [35.0,0.18,0.62,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "composter_side",
+        "path": "C:/sem4/vs code/import files/blocks/composter_side.png",
+        "color": [29.0,0.57,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "composter_top",
+        "path": "C:/sem4/vs code/import files/blocks/composter_top.png",
+        "color": [27.0,0.32,0.73,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "conduit",
+        "path": "C:/sem4/vs code/import files/blocks/conduit.png",
+        "color": [35.0,0.19,0.73,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "copper_block",
+        "path": "C:/sem4/vs code/import files/blocks/copper_block.png",
+        "color": [15.0,0.47,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "copper_ore",
+        "path": "C:/sem4/vs code/import files/blocks/copper_ore.png",
+        "color": [72.0,0.02,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cracked_deepslate_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/cracked_deepslate_bricks.png",
+        "color": [240.0,0.01,0.25,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cracked_deepslate_tiles",
+        "path": "C:/sem4/vs code/import files/blocks/cracked_deepslate_tiles.png",
+        "color": [0.0,0.0,0.2,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cracked_nether_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/cracked_nether_bricks.png",
+        "color": [351.0,0.33,0.12,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cracked_polished_blackstone_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/cracked_polished_blackstone_bricks.png",
+        "color": [309.0,0.09,0.16,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cracked_stone_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/cracked_stone_bricks.png",
+        "color": [300.0,0.0,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crafting_table_front",
+        "path": "C:/sem4/vs code/import files/blocks/crafting_table_front.png",
+        "color": [36.0,0.3,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crafting_table_side",
+        "path": "C:/sem4/vs code/import files/blocks/crafting_table_side.png",
+        "color": [36.0,0.34,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crafting_table_top",
+        "path": "C:/sem4/vs code/import files/blocks/crafting_table_top.png",
+        "color": [24.0,0.48,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_door",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_door.png",
+        "color": [335.0,0.35,0.19,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_fungus",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_fungus.png",
+        "color": [9.0,0.69,0.08,0.23],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_hanging_sign.png",
+        "color": [336.0,0.32,0.17,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_nylium",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_nylium.png",
+        "color": [0.0,0.61,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_nylium_side",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_nylium_side.png",
+        "color": [0.0,0.61,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_planks",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_planks.png",
+        "color": [335.0,0.36,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_roots",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_roots.png",
+        "color": [343.0,0.91,0.09,0.35],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_sign",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_sign.png",
+        "color": [337.0,0.41,0.15,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_stem",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_stem.png",
+        "color": [356.0,0.57,0.23,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_stem_top",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_stem_top.png",
+        "color": [340.0,0.39,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "crimson_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/crimson_trapdoor.png",
+        "color": [335.0,0.35,0.25,0.84],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "crying_obsidian",
+        "path": "C:/sem4/vs code/import files/blocks/crying_obsidian.png",
+        "color": [266.0,0.71,0.14,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cut_copper",
+        "path": "C:/sem4/vs code/import files/blocks/cut_copper.png",
+        "color": [14.0,0.46,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cut_red_sandstone",
+        "path": "C:/sem4/vs code/import files/blocks/cut_red_sandstone.png",
+        "color": [27.0,0.72,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cut_sandstone",
+        "path": "C:/sem4/vs code/import files/blocks/cut_sandstone.png",
+        "color": [49.0,0.43,0.73,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cyan_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/cyan_concrete.png",
+        "color": [189.0,0.73,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cyan_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/cyan_concrete_powder.png",
+        "color": [185.0,0.63,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cyan_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/cyan_glazed_terracotta.png",
+        "color": [186.0,0.41,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cyan_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/cyan_shulker_box.png",
+        "color": [187.0,0.74,0.3,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cyan_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/cyan_stained_glass.png",
+        "color": [200.0,0.34,0.45,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cyan_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/cyan_stained_glass_pane_top.png",
+        "color": [200.0,0.33,0.05,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "cyan_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/cyan_terracotta.png",
+        "color": [180.0,0.03,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "cyan_wool",
+        "path": "C:/sem4/vs code/import files/blocks/cyan_wool.png",
+        "color": [184.0,0.75,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "damaged_anvil_top",
+        "path": "C:/sem4/vs code/import files/blocks/damaged_anvil_top.png",
+        "color": [0.0,0.0,0.18,0.62],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dark_oak_door",
+        "path": "C:/sem4/vs code/import files/blocks/dark_oak_door.png",
+        "color": [30.0,0.52,0.1,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dark_oak_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/dark_oak_hanging_sign.png",
+        "color": [31.0,0.38,0.13,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dark_oak_log",
+        "path": "C:/sem4/vs code/import files/blocks/dark_oak_log.png",
+        "color": [35.0,0.4,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dark_oak_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/dark_oak_log_top.png",
+        "color": [31.0,0.51,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dark_oak_planks",
+        "path": "C:/sem4/vs code/import files/blocks/dark_oak_planks.png",
+        "color": [30.0,0.53,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dark_oak_sapling",
+        "path": "C:/sem4/vs code/import files/blocks/dark_oak_sapling.png",
+        "color": [89.0,0.49,0.1,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dark_oak_sign",
+        "path": "C:/sem4/vs code/import files/blocks/dark_oak_sign.png",
+        "color": [32.0,0.46,0.11,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dark_oak_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/dark_oak_trapdoor.png",
+        "color": [30.0,0.53,0.19,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dark_prismarine",
+        "path": "C:/sem4/vs code/import files/blocks/dark_prismarine.png",
+        "color": [156.0,0.28,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "daylight_detector_inverted_top",
+        "path": "C:/sem4/vs code/import files/blocks/daylight_detector_inverted_top.png",
+        "color": [210.0,0.03,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "daylight_detector_side",
+        "path": "C:/sem4/vs code/import files/blocks/daylight_detector_side.png",
+        "color": [39.0,0.31,0.2,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "daylight_detector_top",
+        "path": "C:/sem4/vs code/import files/blocks/daylight_detector_top.png",
+        "color": [37.0,0.16,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dead_brain_coral",
+        "path": "C:/sem4/vs code/import files/blocks/dead_brain_coral.png",
+        "color": [20.0,0.05,0.21,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_brain_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/dead_brain_coral_block.png",
+        "color": [18.0,0.04,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dead_brain_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/dead_brain_coral_fan.png",
+        "color": [26.0,0.04,0.69,0.37],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_bubble_coral",
+        "path": "C:/sem4/vs code/import files/blocks/dead_bubble_coral.png",
+        "color": [20.0,0.05,0.25,0.52],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_bubble_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/dead_bubble_coral_block.png",
+        "color": [20.0,0.05,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dead_bubble_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/dead_bubble_coral_fan.png",
+        "color": [20.0,0.05,0.74,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_bush",
+        "path": "C:/sem4/vs code/import files/blocks/dead_bush.png",
+        "color": [36.0,0.45,0.09,0.3],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_fire_coral",
+        "path": "C:/sem4/vs code/import files/blocks/dead_fire_coral.png",
+        "color": [20.0,0.05,0.21,0.42],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_fire_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/dead_fire_coral_block.png",
+        "color": [20.0,0.05,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dead_fire_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/dead_fire_coral_fan.png",
+        "color": [20.0,0.03,0.65,0.41],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_horn_coral",
+        "path": "C:/sem4/vs code/import files/blocks/dead_horn_coral.png",
+        "color": [24.0,0.05,0.21,0.39],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_horn_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/dead_horn_coral_block.png",
+        "color": [22.0,0.04,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dead_horn_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/dead_horn_coral_fan.png",
+        "color": [17.0,0.05,0.73,0.36],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_tube_coral",
+        "path": "C:/sem4/vs code/import files/blocks/dead_tube_coral.png",
+        "color": [20.0,0.04,0.26,0.59],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dead_tube_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/dead_tube_coral_block.png",
+        "color": [22.0,0.04,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dead_tube_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/dead_tube_coral_fan.png",
+        "color": [15.0,0.04,0.78,0.3],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate.png",
+        "color": [240.0,0.01,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_bricks.png",
+        "color": [240.0,0.01,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_coal_ore",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_coal_ore.png",
+        "color": [240.0,0.01,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_copper_ore",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_copper_ore.png",
+        "color": [75.0,0.02,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_diamond_ore",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_diamond_ore.png",
+        "color": [180.0,0.12,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_emerald_ore",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_emerald_ore.png",
+        "color": [141.0,0.14,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_gold_ore",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_gold_ore.png",
+        "color": [39.0,0.19,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_iron_ore",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_iron_ore.png",
+        "color": [25.0,0.06,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_lapis_ore",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_lapis_ore.png",
+        "color": [222.0,0.19,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_redstone_ore",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_redstone_ore.png",
+        "color": [358.0,0.18,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_tiles",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_tiles.png",
+        "color": [240.0,0.01,0.21,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "deepslate_top",
+        "path": "C:/sem4/vs code/import files/blocks/deepslate_top.png",
+        "color": [240.0,0.01,0.34,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "diamond_block",
+        "path": "C:/sem4/vs code/import files/blocks/diamond_block.png",
+        "color": [176.0,0.79,0.65,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "diamond_ore",
+        "path": "C:/sem4/vs code/import files/blocks/diamond_ore.png",
+        "color": [177.0,0.08,0.51,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "diorite",
+        "path": "C:/sem4/vs code/import files/blocks/diorite.png",
+        "color": [0.0,0.0,0.73,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dirt",
+        "path": "C:/sem4/vs code/import files/blocks/dirt.png",
+        "color": [26.0,0.33,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dirt_path_side",
+        "path": "C:/sem4/vs code/import files/blocks/dirt_path_side.png",
+        "color": [29.0,0.35,0.37,0.93],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "dirt_path_top",
+        "path": "C:/sem4/vs code/import files/blocks/dirt_path_top.png",
+        "color": [40.0,0.39,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dispenser_front_vertical",
+        "path": "C:/sem4/vs code/import files/blocks/dispenser_front_vertical.png",
+        "color": [0.0,0.01,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dragon_egg",
+        "path": "C:/sem4/vs code/import files/blocks/dragon_egg.png",
+        "color": [270.0,0.25,0.05,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dried_kelp_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/dried_kelp_bottom.png",
+        "color": [84.0,0.21,0.19,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dried_kelp_side",
+        "path": "C:/sem4/vs code/import files/blocks/dried_kelp_side.png",
+        "color": [92.0,0.25,0.15,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dried_kelp_top",
+        "path": "C:/sem4/vs code/import files/blocks/dried_kelp_top.png",
+        "color": [84.0,0.21,0.19,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dripstone_block",
+        "path": "C:/sem4/vs code/import files/blocks/dripstone_block.png",
+        "color": [21.0,0.19,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dropper_front",
+        "path": "C:/sem4/vs code/import files/blocks/dropper_front.png",
+        "color": [0.0,0.0,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "dropper_front_vertical",
+        "path": "C:/sem4/vs code/import files/blocks/dropper_front_vertical.png",
+        "color": [0.0,0.01,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "emerald_block",
+        "path": "C:/sem4/vs code/import files/blocks/emerald_block.png",
+        "color": [137.0,0.66,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "emerald_ore",
+        "path": "C:/sem4/vs code/import files/blocks/emerald_ore.png",
+        "color": [135.0,0.11,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "enchanting_table_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/enchanting_table_bottom.png",
+        "color": [261.0,0.41,0.07,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "enchanting_table_side",
+        "path": "C:/sem4/vs code/import files/blocks/enchanting_table_side.png",
+        "color": [262.0,0.11,0.15,0.75],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "enchanting_table_top",
+        "path": "C:/sem4/vs code/import files/blocks/enchanting_table_top.png",
+        "color": [349.0,0.26,0.4,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "end_portal_frame_side",
+        "path": "C:/sem4/vs code/import files/blocks/end_portal_frame_side.png",
+        "color": [78.0,0.14,0.45,0.81],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "end_portal_frame_top",
+        "path": "C:/sem4/vs code/import files/blocks/end_portal_frame_top.png",
+        "color": [132.0,0.14,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "end_rod",
+        "path": "C:/sem4/vs code/import files/blocks/end_rod.png",
+        "color": [24.0,0.06,0.17,0.22],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "end_stone",
+        "path": "C:/sem4/vs code/import files/blocks/end_stone.png",
+        "color": [63.0,0.48,0.74,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "end_stone_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/end_stone_bricks.png",
+        "color": [66.0,0.49,0.75,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "exposed_copper",
+        "path": "C:/sem4/vs code/import files/blocks/exposed_copper.png",
+        "color": [23.0,0.23,0.52,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "exposed_cut_copper",
+        "path": "C:/sem4/vs code/import files/blocks/exposed_cut_copper.png",
+        "color": [23.0,0.21,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "farmland",
+        "path": "C:/sem4/vs code/import files/blocks/farmland.png",
+        "color": [26.0,0.34,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "farmland_moist",
+        "path": "C:/sem4/vs code/import files/blocks/farmland_moist.png",
+        "color": [26.0,0.69,0.19,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "fire_1",
+        "path": "C:/sem4/vs code/import files/blocks/fire_1.png",
+        "color": [37.0,0.54,0.3,0.53],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "fire_coral",
+        "path": "C:/sem4/vs code/import files/blocks/fire_coral.png",
+        "color": [357.0,0.63,0.17,0.42],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "fire_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/fire_coral_block.png",
+        "color": [355.0,0.65,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "fire_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/fire_coral_fan.png",
+        "color": [355.0,0.65,0.15,0.41],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "fletching_table_front",
+        "path": "C:/sem4/vs code/import files/blocks/fletching_table_front.png",
+        "color": [43.0,0.27,0.55,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "fletching_table_side",
+        "path": "C:/sem4/vs code/import files/blocks/fletching_table_side.png",
+        "color": [37.0,0.32,0.62,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "fletching_table_top",
+        "path": "C:/sem4/vs code/import files/blocks/fletching_table_top.png",
+        "color": [44.0,0.35,0.64,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "flowering_azalea_leaves",
+        "path": "C:/sem4/vs code/import files/blocks/flowering_azalea_leaves.png",
+        "color": [74.0,0.29,0.27,0.8],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "flowering_azalea_side",
+        "path": "C:/sem4/vs code/import files/blocks/flowering_azalea_side.png",
+        "color": [65.0,0.21,0.22,0.6],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "flowering_azalea_top",
+        "path": "C:/sem4/vs code/import files/blocks/flowering_azalea_top.png",
+        "color": [69.0,0.31,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "frosted_ice_0",
+        "path": "C:/sem4/vs code/import files/blocks/frosted_ice_0.png",
+        "color": [218.0,0.93,0.77,0.74],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "frosted_ice_1",
+        "path": "C:/sem4/vs code/import files/blocks/frosted_ice_1.png",
+        "color": [218.0,0.93,0.76,0.75],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "frosted_ice_2",
+        "path": "C:/sem4/vs code/import files/blocks/frosted_ice_2.png",
+        "color": [218.0,0.93,0.76,0.78],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "frosted_ice_3",
+        "path": "C:/sem4/vs code/import files/blocks/frosted_ice_3.png",
+        "color": [218.0,0.94,0.76,0.83],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "furnace_front",
+        "path": "C:/sem4/vs code/import files/blocks/furnace_front.png",
+        "color": [0.0,0.0,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "furnace_front_on",
+        "path": "C:/sem4/vs code/import files/blocks/furnace_front_on.png",
+        "color": [41.0,0.13,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "furnace_side",
+        "path": "C:/sem4/vs code/import files/blocks/furnace_side.png",
+        "color": [0.0,0.0,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "furnace_top",
+        "path": "C:/sem4/vs code/import files/blocks/furnace_top.png",
+        "color": [0.0,0.0,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gilded_blackstone",
+        "path": "C:/sem4/vs code/import files/blocks/gilded_blackstone.png",
+        "color": [14.0,0.18,0.18,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "glass",
+        "path": "C:/sem4/vs code/import files/blocks/glass.png",
+        "color": [191.0,0.05,0.57,0.25],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/glass_pane_top.png",
+        "color": [190.0,0.12,0.09,0.12],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "glowstone",
+        "path": "C:/sem4/vs code/import files/blocks/glowstone.png",
+        "color": [32.0,0.34,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "glow_item_frame",
+        "path": "C:/sem4/vs code/import files/blocks/glow_item_frame.png",
+        "color": [37.0,0.35,0.33,0.66],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "glow_lichen",
+        "path": "C:/sem4/vs code/import files/blocks/glow_lichen.png",
+        "color": [146.0,0.07,0.19,0.41],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "gold_block",
+        "path": "C:/sem4/vs code/import files/blocks/gold_block.png",
+        "color": [48.0,0.9,0.6,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gold_ore",
+        "path": "C:/sem4/vs code/import files/blocks/gold_ore.png",
+        "color": [42.0,0.16,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "granite",
+        "path": "C:/sem4/vs code/import files/blocks/granite.png",
+        "color": [17.0,0.27,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "grass_block_side",
+        "path": "C:/sem4/vs code/import files/blocks/grass_block_side.png",
+        "color": [41.0,0.32,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "grass_block_snow",
+        "path": "C:/sem4/vs code/import files/blocks/grass_block_snow.png",
+        "color": [30.0,0.17,0.59,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "grass_block_top",
+        "path": "C:/sem4/vs code/import files/blocks/grass_block_top.png",
+        "color": [0.0,0.0,0.57,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gravel",
+        "path": "C:/sem4/vs code/import files/blocks/gravel.png",
+        "color": [12.0,0.02,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gray_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/gray_concrete.png",
+        "color": [214.0,0.06,0.22,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gray_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/gray_concrete_powder.png",
+        "color": [202.0,0.05,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gray_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/gray_glazed_terracotta.png",
+        "color": [198.0,0.06,0.34,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gray_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/gray_shulker_box.png",
+        "color": [214.0,0.06,0.23,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gray_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/gray_stained_glass.png",
+        "color": [0.0,0.0,0.3,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "gray_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/gray_stained_glass_pane_top.png",
+        "color": [0.0,0.0,0.04,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "gray_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/gray_terracotta.png",
+        "color": [19.0,0.24,0.18,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "gray_wool",
+        "path": "C:/sem4/vs code/import files/blocks/gray_wool.png",
+        "color": [200.0,0.07,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "green_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/green_concrete.png",
+        "color": [80.0,0.43,0.25,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "green_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/green_concrete_powder.png",
+        "color": [78.0,0.46,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "green_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/green_glazed_terracotta.png",
+        "color": [80.0,0.36,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "green_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/green_shulker_box.png",
+        "color": [78.0,0.53,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "green_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/green_stained_glass.png",
+        "color": [80.0,0.43,0.35,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "green_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/green_stained_glass_pane_top.png",
+        "color": [80.0,0.43,0.04,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "green_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/green_terracotta.png",
+        "color": [70.0,0.33,0.24,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "green_wool",
+        "path": "C:/sem4/vs code/import files/blocks/green_wool.png",
+        "color": [78.0,0.6,0.27,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "grindstone_side",
+        "path": "C:/sem4/vs code/import files/blocks/grindstone_side.png",
+        "color": [0.0,0.0,0.3,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "hanging_roots",
+        "path": "C:/sem4/vs code/import files/blocks/hanging_roots.png",
+        "color": [20.0,0.29,0.14,0.29],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "hay_block_side",
+        "path": "C:/sem4/vs code/import files/blocks/hay_block_side.png",
+        "color": [46.0,0.63,0.4,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "hay_block_top",
+        "path": "C:/sem4/vs code/import files/blocks/hay_block_top.png",
+        "color": [50.0,0.86,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "honeycomb_block",
+        "path": "C:/sem4/vs code/import files/blocks/honeycomb_block.png",
+        "color": [36.0,0.79,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "honey_block_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/honey_block_bottom.png",
+        "color": [35.0,0.88,0.5,0.5],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "honey_block_side",
+        "path": "C:/sem4/vs code/import files/blocks/honey_block_side.png",
+        "color": [41.0,0.94,0.6,0.74],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "honey_block_top",
+        "path": "C:/sem4/vs code/import files/blocks/honey_block_top.png",
+        "color": [40.0,0.95,0.59,0.75],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "hopper_inside",
+        "path": "C:/sem4/vs code/import files/blocks/hopper_inside.png",
+        "color": [240.0,0.04,0.2,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "hopper_outside",
+        "path": "C:/sem4/vs code/import files/blocks/hopper_outside.png",
+        "color": [260.0,0.02,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "hopper_top",
+        "path": "C:/sem4/vs code/import files/blocks/hopper_top.png",
+        "color": [300.0,0.01,0.18,0.61],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "horn_coral",
+        "path": "C:/sem4/vs code/import files/blocks/horn_coral.png",
+        "color": [51.0,0.54,0.21,0.39],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "horn_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/horn_coral_block.png",
+        "color": [53.0,0.65,0.55,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "horn_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/horn_coral_fan.png",
+        "color": [51.0,0.55,0.19,0.36],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "ice",
+        "path": "C:/sem4/vs code/import files/blocks/ice.png",
+        "color": [219.0,0.95,0.78,0.74],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "iron_bars",
+        "path": "C:/sem4/vs code/import files/blocks/iron_bars.png",
+        "color": [90.0,0.02,0.24,0.45],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "iron_block",
+        "path": "C:/sem4/vs code/import files/blocks/iron_block.png",
+        "color": [0.0,0.0,0.86,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "iron_door",
+        "path": "C:/sem4/vs code/import files/blocks/iron_door.png",
+        "color": [0.0,0.0,0.32,0.45],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "iron_ore",
+        "path": "C:/sem4/vs code/import files/blocks/iron_ore.png",
+        "color": [30.0,0.06,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "item_frame",
+        "path": "C:/sem4/vs code/import files/blocks/item_frame.png",
+        "color": [32.0,0.35,0.29,0.66],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "jack_o_lantern",
+        "path": "C:/sem4/vs code/import files/blocks/jack_o_lantern.png",
+        "color": [37.0,0.66,0.52,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jigsaw_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/jigsaw_bottom.png",
+        "color": [282.0,0.16,0.12,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jigsaw_lock",
+        "path": "C:/sem4/vs code/import files/blocks/jigsaw_lock.png",
+        "color": [287.0,0.11,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jigsaw_side",
+        "path": "C:/sem4/vs code/import files/blocks/jigsaw_side.png",
+        "color": [294.0,0.09,0.23,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jigsaw_top",
+        "path": "C:/sem4/vs code/import files/blocks/jigsaw_top.png",
+        "color": [295.0,0.08,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jukebox_top",
+        "path": "C:/sem4/vs code/import files/blocks/jukebox_top.png",
+        "color": [22.0,0.33,0.27,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jungle_door",
+        "path": "C:/sem4/vs code/import files/blocks/jungle_door.png",
+        "color": [26.0,0.33,0.24,0.52],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "jungle_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/jungle_hanging_sign.png",
+        "color": [26.0,0.32,0.22,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "jungle_log",
+        "path": "C:/sem4/vs code/import files/blocks/jungle_log.png",
+        "color": [42.0,0.55,0.21,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jungle_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/jungle_log_top.png",
+        "color": [30.0,0.36,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jungle_planks",
+        "path": "C:/sem4/vs code/import files/blocks/jungle_planks.png",
+        "color": [26.0,0.33,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "jungle_sapling",
+        "path": "C:/sem4/vs code/import files/blocks/jungle_sapling.png",
+        "color": [93.0,0.69,0.06,0.33],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "jungle_sign",
+        "path": "C:/sem4/vs code/import files/blocks/jungle_sign.png",
+        "color": [29.0,0.37,0.19,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "jungle_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/jungle_trapdoor.png",
+        "color": [27.0,0.33,0.37,0.83],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "kelp_plant",
+        "path": "C:/sem4/vs code/import files/blocks/kelp_plant.png",
+        "color": [90.0,0.52,0.13,0.39],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "ladder",
+        "path": "C:/sem4/vs code/import files/blocks/ladder.png",
+        "color": [36.0,0.4,0.2,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "lapis_block",
+        "path": "C:/sem4/vs code/import files/blocks/lapis_block.png",
+        "color": [220.0,0.65,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lapis_ore",
+        "path": "C:/sem4/vs code/import files/blocks/lapis_ore.png",
+        "color": [222.0,0.14,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "large_amethyst_bud",
+        "path": "C:/sem4/vs code/import files/blocks/large_amethyst_bud.png",
+        "color": [269.0,0.23,0.19,0.3],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "lava_flow",
+        "path": "C:/sem4/vs code/import files/blocks/lava_flow.png",
+        "color": [23.0,0.82,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lava_still",
+        "path": "C:/sem4/vs code/import files/blocks/lava_still.png",
+        "color": [21.0,0.87,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lectern_base",
+        "path": "C:/sem4/vs code/import files/blocks/lectern_base.png",
+        "color": [31.0,0.37,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lectern_front",
+        "path": "C:/sem4/vs code/import files/blocks/lectern_front.png",
+        "color": [36.0,0.4,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lectern_sides",
+        "path": "C:/sem4/vs code/import files/blocks/lectern_sides.png",
+        "color": [37.0,0.38,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lectern_top",
+        "path": "C:/sem4/vs code/import files/blocks/lectern_top.png",
+        "color": [36.0,0.35,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lightning_rod",
+        "path": "C:/sem4/vs code/import files/blocks/lightning_rod.png",
+        "color": [17.0,0.43,0.08,0.15],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "lightning_rod_on",
+        "path": "C:/sem4/vs code/import files/blocks/lightning_rod_on.png",
+        "color": [0.0,0.0,1.0,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_blue_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/light_blue_concrete.png",
+        "color": [202.0,0.7,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_blue_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/light_blue_concrete_powder.png",
+        "color": [194.0,0.62,0.56,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_blue_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/light_blue_glazed_terracotta.png",
+        "color": [203.0,0.54,0.59,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_blue_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/light_blue_shulker_box.png",
+        "color": [198.0,0.65,0.51,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_blue_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/light_blue_stained_glass.png",
+        "color": [213.0,0.59,0.62,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "light_blue_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/light_blue_stained_glass_pane_top.png",
+        "color": [214.0,0.37,0.07,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "light_blue_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/light_blue_terracotta.png",
+        "color": [250.0,0.12,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_blue_wool",
+        "path": "C:/sem4/vs code/import files/blocks/light_blue_wool.png",
+        "color": [196.0,0.67,0.54,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_gray_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/light_gray_concrete.png",
+        "color": [60.0,0.04,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_gray_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/light_gray_concrete_powder.png",
+        "color": [60.0,0.03,0.59,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_gray_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/light_gray_glazed_terracotta.png",
+        "color": [183.0,0.11,0.61,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_gray_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/light_gray_shulker_box.png",
+        "color": [60.0,0.04,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_gray_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/light_gray_stained_glass.png",
+        "color": [0.0,0.0,0.6,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "light_gray_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/light_gray_stained_glass_pane_top.png",
+        "color": [0.0,0.0,0.07,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "light_gray_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/light_gray_terracotta.png",
+        "color": [14.0,0.16,0.45,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "light_gray_wool",
+        "path": "C:/sem4/vs code/import files/blocks/light_gray_wool.png",
+        "color": [60.0,0.03,0.54,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lilac_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/lilac_bottom.png",
+        "color": [348.0,0.05,0.18,0.35],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "lilac_top",
+        "path": "C:/sem4/vs code/import files/blocks/lilac_top.png",
+        "color": [313.0,0.11,0.16,0.29],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "lime_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/lime_concrete.png",
+        "color": [91.0,0.75,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lime_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/lime_concrete_powder.png",
+        "color": [86.0,0.64,0.45,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lime_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/lime_glazed_terracotta.png",
+        "color": [75.0,0.56,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lime_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/lime_shulker_box.png",
+        "color": [89.0,0.76,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lime_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/lime_stained_glass.png",
+        "color": [86.0,0.78,0.45,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "lime_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/lime_stained_glass_pane_top.png",
+        "color": [86.0,0.78,0.05,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "lime_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/lime_terracotta.png",
+        "color": [73.0,0.38,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lime_wool",
+        "path": "C:/sem4/vs code/import files/blocks/lime_wool.png",
+        "color": [87.0,0.76,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lodestone_side",
+        "path": "C:/sem4/vs code/import files/blocks/lodestone_side.png",
+        "color": [240.0,0.02,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "lodestone_top",
+        "path": "C:/sem4/vs code/import files/blocks/lodestone_top.png",
+        "color": [216.0,0.02,0.58,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "loom_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/loom_bottom.png",
+        "color": [36.0,0.36,0.22,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "loom_front",
+        "path": "C:/sem4/vs code/import files/blocks/loom_front.png",
+        "color": [33.0,0.29,0.45,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "loom_side",
+        "path": "C:/sem4/vs code/import files/blocks/loom_side.png",
+        "color": [24.0,0.34,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "loom_top",
+        "path": "C:/sem4/vs code/import files/blocks/loom_top.png",
+        "color": [33.0,0.22,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "magenta_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/magenta_concrete.png",
+        "color": [305.0,0.56,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "magenta_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/magenta_concrete_powder.png",
+        "color": [304.0,0.46,0.54,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "magenta_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/magenta_glazed_terracotta.png",
+        "color": [309.0,0.53,0.6,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "magenta_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/magenta_shulker_box.png",
+        "color": [305.0,0.52,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "magenta_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/magenta_stained_glass.png",
+        "color": [284.0,0.64,0.57,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "magenta_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/magenta_stained_glass_pane_top.png",
+        "color": [282.0,0.49,0.07,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "magenta_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/magenta_terracotta.png",
+        "color": [340.0,0.26,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "magenta_wool",
+        "path": "C:/sem4/vs code/import files/blocks/magenta_wool.png",
+        "color": [305.0,0.47,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "magma",
+        "path": "C:/sem4/vs code/import files/blocks/magma.png",
+        "color": [17.0,0.63,0.34,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_door",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_door.png",
+        "color": [5.0,0.44,0.17,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_hanging_sign.png",
+        "color": [4.0,0.36,0.16,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_leaves",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_leaves.png",
+        "color": [0.0,0.0,0.42,0.82],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_log",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_log.png",
+        "color": [36.0,0.34,0.24,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_log_top.png",
+        "color": [6.0,0.42,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_planks",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_planks.png",
+        "color": [5.0,0.42,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_propagule",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_propagule.png",
+        "color": [112.0,0.37,0.08,0.16],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_roots_side",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_roots_side.png",
+        "color": [33.0,0.32,0.12,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_roots_top",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_roots_top.png",
+        "color": [36.0,0.32,0.15,0.69],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_sign",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_sign.png",
+        "color": [6.0,0.42,0.14,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "mangrove_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/mangrove_trapdoor.png",
+        "color": [3.0,0.45,0.26,0.87],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "medium_amethyst_bud",
+        "path": "C:/sem4/vs code/import files/blocks/medium_amethyst_bud.png",
+        "color": [266.0,0.25,0.12,0.2],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "melon_side",
+        "path": "C:/sem4/vs code/import files/blocks/melon_side.png",
+        "color": [77.0,0.66,0.34,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "melon_top",
+        "path": "C:/sem4/vs code/import files/blocks/melon_top.png",
+        "color": [77.0,0.66,0.34,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mossy_cobblestone",
+        "path": "C:/sem4/vs code/import files/blocks/mossy_cobblestone.png",
+        "color": [80.0,0.11,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mossy_stone_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/mossy_stone_bricks.png",
+        "color": [82.0,0.07,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "moss_block",
+        "path": "C:/sem4/vs code/import files/blocks/moss_block.png",
+        "color": [79.0,0.42,0.3,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mud",
+        "path": "C:/sem4/vs code/import files/blocks/mud.png",
+        "color": [300.0,0.03,0.23,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "muddy_mangrove_roots_side",
+        "path": "C:/sem4/vs code/import files/blocks/muddy_mangrove_roots_side.png",
+        "color": [30.0,0.17,0.23,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "muddy_mangrove_roots_top",
+        "path": "C:/sem4/vs code/import files/blocks/muddy_mangrove_roots_top.png",
+        "color": [31.0,0.22,0.22,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mushroom_block_inside",
+        "path": "C:/sem4/vs code/import files/blocks/mushroom_block_inside.png",
+        "color": [37.0,0.42,0.63,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mushroom_stem",
+        "path": "C:/sem4/vs code/import files/blocks/mushroom_stem.png",
+        "color": [37.0,0.15,0.76,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "mycelium_side",
+        "path": "C:/sem4/vs code/import files/blocks/mycelium_side.png",
+        "color": [23.0,0.23,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "netherite_block",
+        "path": "C:/sem4/vs code/import files/blocks/netherite_block.png",
+        "color": [336.0,0.04,0.25,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "netherrack",
+        "path": "C:/sem4/vs code/import files/blocks/netherrack.png",
+        "color": [0.0,0.44,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "nether_gold_ore",
+        "path": "C:/sem4/vs code/import files/blocks/nether_gold_ore.png",
+        "color": [10.0,0.46,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "nether_portal",
+        "path": "C:/sem4/vs code/import files/blocks/nether_portal.png",
+        "color": [266.0,0.89,0.39,0.75],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "nether_quartz_ore",
+        "path": "C:/sem4/vs code/import files/blocks/nether_quartz_ore.png",
+        "color": [3.0,0.31,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "nether_sprouts",
+        "path": "C:/sem4/vs code/import files/blocks/nether_sprouts.png",
+        "color": [172.0,0.8,0.08,0.12],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "nether_wart",
+        "path": "C:/sem4/vs code/import files/blocks/nether_wart.png",
+        "color": [357.0,0.62,0.06,0.17],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "nether_wart_block",
+        "path": "C:/sem4/vs code/import files/blocks/nether_wart_block.png",
+        "color": [0.0,0.97,0.23,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "note_block",
+        "path": "C:/sem4/vs code/import files/blocks/note_block.png",
+        "color": [22.0,0.38,0.25,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "oak_door",
+        "path": "C:/sem4/vs code/import files/blocks/oak_door.png",
+        "color": [39.0,0.33,0.19,0.45],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "oak_door_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/oak_door_bottom.png",
+        "color": [36.0,0.38,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "oak_door_top",
+        "path": "C:/sem4/vs code/import files/blocks/oak_door_top.png",
+        "color": [36.0,0.37,0.33,0.81],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "oak_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/oak_hanging_sign.png",
+        "color": [37.0,0.32,0.24,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "oak_log",
+        "path": "C:/sem4/vs code/import files/blocks/oak_log.png",
+        "color": [36.0,0.37,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "oak_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/oak_log_top.png",
+        "color": [37.0,0.35,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "oak_planks",
+        "path": "C:/sem4/vs code/import files/blocks/oak_planks.png",
+        "color": [37.0,0.35,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "oak_sapling",
+        "path": "C:/sem4/vs code/import files/blocks/oak_sapling.png",
+        "color": [87.0,0.46,0.12,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "oak_sign",
+        "path": "C:/sem4/vs code/import files/blocks/oak_sign.png",
+        "color": [38.0,0.37,0.21,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "oak_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/oak_trapdoor.png",
+        "color": [38.0,0.38,0.3,0.86],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "observer_back",
+        "path": "C:/sem4/vs code/import files/blocks/observer_back.png",
+        "color": [0.0,0.01,0.27,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "observer_back_on",
+        "path": "C:/sem4/vs code/import files/blocks/observer_back_on.png",
+        "color": [0.0,0.06,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "observer_front",
+        "path": "C:/sem4/vs code/import files/blocks/observer_front.png",
+        "color": [0.0,0.0,0.4,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "observer_side",
+        "path": "C:/sem4/vs code/import files/blocks/observer_side.png",
+        "color": [0.0,0.01,0.27,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "observer_top",
+        "path": "C:/sem4/vs code/import files/blocks/observer_top.png",
+        "color": [0.0,0.0,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "obsidian",
+        "path": "C:/sem4/vs code/import files/blocks/obsidian.png",
+        "color": [261.0,0.41,0.07,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "ochre_froglight_side",
+        "path": "C:/sem4/vs code/import files/blocks/ochre_froglight_side.png",
+        "color": [49.0,0.74,0.83,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "ochre_froglight_top",
+        "path": "C:/sem4/vs code/import files/blocks/ochre_froglight_top.png",
+        "color": [53.0,0.79,0.89,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "orange_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/orange_concrete.png",
+        "color": [26.0,1.0,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "orange_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/orange_concrete_powder.png",
+        "color": [31.0,0.77,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "orange_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/orange_glazed_terracotta.png",
+        "color": [53.0,0.26,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "orange_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/orange_shulker_box.png",
+        "color": [26.0,0.93,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "orange_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/orange_stained_glass.png",
+        "color": [28.0,0.67,0.52,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "orange_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/orange_stained_glass_pane_top.png",
+        "color": [27.0,0.62,0.06,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "orange_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/orange_terracotta.png",
+        "color": [22.0,0.63,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "orange_wool",
+        "path": "C:/sem4/vs code/import files/blocks/orange_wool.png",
+        "color": [27.0,0.87,0.51,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "oxidized_copper",
+        "path": "C:/sem4/vs code/import files/blocks/oxidized_copper.png",
+        "color": [158.0,0.33,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "oxidized_cut_copper",
+        "path": "C:/sem4/vs code/import files/blocks/oxidized_cut_copper.png",
+        "color": [158.0,0.32,0.45,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "packed_ice",
+        "path": "C:/sem4/vs code/import files/blocks/packed_ice.png",
+        "color": [219.0,0.9,0.76,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "packed_mud",
+        "path": "C:/sem4/vs code/import files/blocks/packed_mud.png",
+        "color": [26.0,0.29,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pearlescent_froglight_side",
+        "path": "C:/sem4/vs code/import files/blocks/pearlescent_froglight_side.png",
+        "color": [338.0,0.21,0.9,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pearlescent_froglight_top",
+        "path": "C:/sem4/vs code/import files/blocks/pearlescent_froglight_top.png",
+        "color": [10.0,0.21,0.95,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "peony_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/peony_bottom.png",
+        "color": [150.0,0.08,0.2,0.55],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "peony_top",
+        "path": "C:/sem4/vs code/import files/blocks/peony_top.png",
+        "color": [252.0,0.04,0.22,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pink_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/pink_concrete.png",
+        "color": [338.0,0.57,0.61,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pink_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/pink_concrete_powder.png",
+        "color": [338.0,0.57,0.74,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pink_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/pink_glazed_terracotta.png",
+        "color": [340.0,0.66,0.76,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pink_petals",
+        "path": "C:/sem4/vs code/import files/blocks/pink_petals.png",
+        "color": [349.0,0.13,0.25,0.3],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pink_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/pink_shulker_box.png",
+        "color": [340.0,0.68,0.69,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pink_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/pink_stained_glass.png",
+        "color": [340.0,0.8,0.72,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pink_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/pink_stained_glass_pane_top.png",
+        "color": [343.0,0.32,0.09,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pink_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/pink_terracotta.png",
+        "color": [0.0,0.35,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pink_wool",
+        "path": "C:/sem4/vs code/import files/blocks/pink_wool.png",
+        "color": [341.0,0.72,0.74,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "piston_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/piston_bottom.png",
+        "color": [0.0,0.01,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "piston_inner",
+        "path": "C:/sem4/vs code/import files/blocks/piston_inner.png",
+        "color": [0.0,0.0,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "piston_side",
+        "path": "C:/sem4/vs code/import files/blocks/piston_side.png",
+        "color": [37.0,0.06,0.4,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "piston_top",
+        "path": "C:/sem4/vs code/import files/blocks/piston_top.png",
+        "color": [37.0,0.29,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "piston_top_sticky",
+        "path": "C:/sem4/vs code/import files/blocks/piston_top_sticky.png",
+        "color": [88.0,0.24,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "podzol_side",
+        "path": "C:/sem4/vs code/import files/blocks/podzol_side.png",
+        "color": [28.0,0.36,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "podzol_top",
+        "path": "C:/sem4/vs code/import files/blocks/podzol_top.png",
+        "color": [35.0,0.58,0.22,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone.png",
+        "color": [20.0,0.19,0.09,0.2],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_down_base",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_down_base.png",
+        "color": [20.0,0.18,0.38,0.89],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_down_frustum",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_down_frustum.png",
+        "color": [21.0,0.19,0.27,0.64],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_down_middle",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_down_middle.png",
+        "color": [21.0,0.18,0.31,0.72],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_down_tip",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_down_tip.png",
+        "color": [20.0,0.19,0.09,0.2],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_down_tip_merge",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_down_tip_merge.png",
+        "color": [21.0,0.18,0.15,0.33],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_up_base",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_up_base.png",
+        "color": [20.0,0.18,0.38,0.89],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_up_frustum",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_up_frustum.png",
+        "color": [21.0,0.19,0.27,0.64],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_up_middle",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_up_middle.png",
+        "color": [21.0,0.18,0.31,0.72],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_up_tip",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_up_tip.png",
+        "color": [20.0,0.19,0.09,0.2],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "pointed_dripstone_up_tip_merge",
+        "path": "C:/sem4/vs code/import files/blocks/pointed_dripstone_up_tip_merge.png",
+        "color": [21.0,0.18,0.15,0.33],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "polished_andesite",
+        "path": "C:/sem4/vs code/import files/blocks/polished_andesite.png",
+        "color": [150.0,0.01,0.52,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "polished_basalt_side",
+        "path": "C:/sem4/vs code/import files/blocks/polished_basalt_side.png",
+        "color": [240.0,0.02,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "polished_basalt_top",
+        "path": "C:/sem4/vs code/import files/blocks/polished_basalt_top.png",
+        "color": [270.0,0.01,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "polished_blackstone",
+        "path": "C:/sem4/vs code/import files/blocks/polished_blackstone.png",
+        "color": [278.0,0.08,0.2,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "polished_blackstone_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/polished_blackstone_bricks.png",
+        "color": [291.0,0.08,0.18,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "polished_deepslate",
+        "path": "C:/sem4/vs code/import files/blocks/polished_deepslate.png",
+        "color": [240.0,0.01,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "polished_diorite",
+        "path": "C:/sem4/vs code/import files/blocks/polished_diorite.png",
+        "color": [210.0,0.02,0.75,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "polished_granite",
+        "path": "C:/sem4/vs code/import files/blocks/polished_granite.png",
+        "color": [16.0,0.27,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "potatoes_stage3",
+        "path": "C:/sem4/vs code/import files/blocks/potatoes_stage3.png",
+        "color": [94.0,0.5,0.11,0.31],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "powder_snow",
+        "path": "C:/sem4/vs code/import files/blocks/powder_snow.png",
+        "color": [180.0,0.45,0.98,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "powered_rail",
+        "path": "C:/sem4/vs code/import files/blocks/powered_rail.png",
+        "color": [33.0,0.3,0.28,0.67],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "powered_rail_on",
+        "path": "C:/sem4/vs code/import files/blocks/powered_rail_on.png",
+        "color": [27.0,0.36,0.3,0.67],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "prismarine",
+        "path": "C:/sem4/vs code/import files/blocks/prismarine.png",
+        "color": [171.0,0.24,0.55,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "prismarine_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/prismarine_bricks.png",
+        "color": [169.0,0.3,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pumpkin_side",
+        "path": "C:/sem4/vs code/import files/blocks/pumpkin_side.png",
+        "color": [32.0,0.78,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "pumpkin_top",
+        "path": "C:/sem4/vs code/import files/blocks/pumpkin_top.png",
+        "color": [32.0,0.78,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "purple_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/purple_concrete.png",
+        "color": [273.0,0.67,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "purple_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/purple_concrete_powder.png",
+        "color": [277.0,0.53,0.45,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "purple_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/purple_glazed_terracotta.png",
+        "color": [275.0,0.53,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "purple_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/purple_shulker_box.png",
+        "color": [274.0,0.66,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "purple_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/purple_stained_glass.png",
+        "color": [273.0,0.48,0.47,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "purple_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/purple_stained_glass_pane_top.png",
+        "color": [274.0,0.5,0.05,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "purple_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/purple_terracotta.png",
+        "color": [340.0,0.26,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "purple_wool",
+        "path": "C:/sem4/vs code/import files/blocks/purple_wool.png",
+        "color": [276.0,0.61,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "purpur_block",
+        "path": "C:/sem4/vs code/import files/blocks/purpur_block.png",
+        "color": [300.0,0.2,0.57,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "purpur_pillar",
+        "path": "C:/sem4/vs code/import files/blocks/purpur_pillar.png",
+        "color": [300.0,0.2,0.59,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "quartz_block_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/quartz_block_bottom.png",
+        "color": [32.0,0.25,0.9,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "quartz_block_side",
+        "path": "C:/sem4/vs code/import files/blocks/quartz_block_side.png",
+        "color": [32.0,0.24,0.89,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "quartz_block_top",
+        "path": "C:/sem4/vs code/import files/blocks/quartz_block_top.png",
+        "color": [32.0,0.24,0.89,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "quartz_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/quartz_bricks.png",
+        "color": [37.0,0.23,0.89,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "quartz_pillar",
+        "path": "C:/sem4/vs code/import files/blocks/quartz_pillar.png",
+        "color": [33.0,0.21,0.9,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "quartz_pillar_top",
+        "path": "C:/sem4/vs code/import files/blocks/quartz_pillar_top.png",
+        "color": [32.0,0.24,0.89,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "rail",
+        "path": "C:/sem4/vs code/import files/blocks/rail.png",
+        "color": [37.0,0.18,0.23,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "rail_corner",
+        "path": "C:/sem4/vs code/import files/blocks/rail_corner.png",
+        "color": [39.0,0.19,0.18,0.42],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "raw_copper_block",
+        "path": "C:/sem4/vs code/import files/blocks/raw_copper_block.png",
+        "color": [21.0,0.32,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "raw_gold_block",
+        "path": "C:/sem4/vs code/import files/blocks/raw_gold_block.png",
+        "color": [42.0,0.71,0.52,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "raw_iron_block",
+        "path": "C:/sem4/vs code/import files/blocks/raw_iron_block.png",
+        "color": [28.0,0.25,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "redstone_dust_overlay",
+        "path": "C:/sem4/vs code/import files/blocks/redstone_dust_overlay.png",
+        "color": [0.0,0.0,0.0,0.0],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "redstone_lamp",
+        "path": "C:/sem4/vs code/import files/blocks/redstone_lamp.png",
+        "color": [22.0,0.52,0.24,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "redstone_lamp_on",
+        "path": "C:/sem4/vs code/import files/blocks/redstone_lamp_on.png",
+        "color": [30.0,0.41,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "redstone_ore",
+        "path": "C:/sem4/vs code/import files/blocks/redstone_ore.png",
+        "color": [0.0,0.12,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "redstone_torch_off",
+        "path": "C:/sem4/vs code/import files/blocks/redstone_torch_off.png",
+        "color": [30.0,0.4,0.02,0.07],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "red_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/red_concrete.png",
+        "color": [0.0,0.63,0.34,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/red_concrete_powder.png",
+        "color": [2.0,0.54,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/red_glazed_terracotta.png",
+        "color": [3.0,0.55,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_mushroom_block",
+        "path": "C:/sem4/vs code/import files/blocks/red_mushroom_block.png",
+        "color": [0.0,0.63,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_nether_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/red_nether_bricks.png",
+        "color": [358.0,0.82,0.15,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_sand",
+        "path": "C:/sem4/vs code/import files/blocks/red_sand.png",
+        "color": [26.0,0.7,0.44,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_sandstone",
+        "path": "C:/sem4/vs code/import files/blocks/red_sandstone.png",
+        "color": [27.0,0.73,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_sandstone_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/red_sandstone_bottom.png",
+        "color": [27.0,0.74,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_sandstone_top",
+        "path": "C:/sem4/vs code/import files/blocks/red_sandstone_top.png",
+        "color": [26.0,0.71,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/red_shulker_box.png",
+        "color": [1.0,0.65,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/red_stained_glass_pane_top.png",
+        "color": [0.0,0.5,0.05,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "red_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/red_terracotta.png",
+        "color": [9.0,0.51,0.37,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "red_wool",
+        "path": "C:/sem4/vs code/import files/blocks/red_wool.png",
+        "color": [2.0,0.65,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "reinforced_deepslate_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/reinforced_deepslate_bottom.png",
+        "color": [120.0,0.02,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "reinforced_deepslate_side",
+        "path": "C:/sem4/vs code/import files/blocks/reinforced_deepslate_side.png",
+        "color": [107.0,0.04,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "reinforced_deepslate_top",
+        "path": "C:/sem4/vs code/import files/blocks/reinforced_deepslate_top.png",
+        "color": [90.0,0.03,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "repeater_on",
+        "path": "C:/sem4/vs code/import files/blocks/repeater_on.png",
+        "color": [5.0,0.07,0.63,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "repeating_command_block_back",
+        "path": "C:/sem4/vs code/import files/blocks/repeating_command_block_back.png",
+        "color": [259.0,0.24,0.54,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "repeating_command_block_conditional",
+        "path": "C:/sem4/vs code/import files/blocks/repeating_command_block_conditional.png",
+        "color": [257.0,0.27,0.55,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "repeating_command_block_front",
+        "path": "C:/sem4/vs code/import files/blocks/repeating_command_block_front.png",
+        "color": [258.0,0.29,0.56,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "repeating_command_block_side",
+        "path": "C:/sem4/vs code/import files/blocks/repeating_command_block_side.png",
+        "color": [258.0,0.26,0.55,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "respawn_anchor_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/respawn_anchor_bottom.png",
+        "color": [266.0,0.71,0.14,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "respawn_anchor_side0",
+        "path": "C:/sem4/vs code/import files/blocks/respawn_anchor_side0.png",
+        "color": [265.0,0.46,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "respawn_anchor_side4",
+        "path": "C:/sem4/vs code/import files/blocks/respawn_anchor_side4.png",
+        "color": [268.0,0.36,0.2,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "respawn_anchor_top",
+        "path": "C:/sem4/vs code/import files/blocks/respawn_anchor_top.png",
+        "color": [265.0,0.72,0.34,0.86],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "respawn_anchor_top_off",
+        "path": "C:/sem4/vs code/import files/blocks/respawn_anchor_top_off.png",
+        "color": [263.0,0.42,0.14,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "rooted_dirt",
+        "path": "C:/sem4/vs code/import files/blocks/rooted_dirt.png",
+        "color": [24.0,0.31,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sand",
+        "path": "C:/sem4/vs code/import files/blocks/sand.png",
+        "color": [47.0,0.43,0.75,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sandstone",
+        "path": "C:/sem4/vs code/import files/blocks/sandstone.png",
+        "color": [47.0,0.43,0.72,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sandstone_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/sandstone_bottom.png",
+        "color": [47.0,0.43,0.72,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sandstone_top",
+        "path": "C:/sem4/vs code/import files/blocks/sandstone_top.png",
+        "color": [50.0,0.45,0.77,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "scaffolding_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/scaffolding_bottom.png",
+        "color": [48.0,0.48,0.76,0.43],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "scaffolding_side",
+        "path": "C:/sem4/vs code/import files/blocks/scaffolding_side.png",
+        "color": [48.0,0.41,0.33,0.53],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "scaffolding_top",
+        "path": "C:/sem4/vs code/import files/blocks/scaffolding_top.png",
+        "color": [36.0,0.36,0.52,0.9],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sculk",
+        "path": "C:/sem4/vs code/import files/blocks/sculk.png",
+        "color": [197.0,0.51,0.1,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_catalyst_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_catalyst_bottom.png",
+        "color": [180.0,0.1,0.39,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_catalyst_side",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_catalyst_side.png",
+        "color": [169.0,0.1,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_catalyst_side_bloom",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_catalyst_side_bloom.png",
+        "color": [170.0,0.13,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_catalyst_top",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_catalyst_top.png",
+        "color": [198.0,0.43,0.1,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_sensor_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_sensor_bottom.png",
+        "color": [198.0,0.43,0.09,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_sensor_side",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_sensor_side.png",
+        "color": [193.0,0.64,0.05,0.5],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_sensor_top",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_sensor_top.png",
+        "color": [191.0,0.85,0.18,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_shrieker_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_shrieker_bottom.png",
+        "color": [198.0,0.43,0.09,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_shrieker_can_summon_inner_top",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_shrieker_can_summon_inner_top.png",
+        "color": [182.0,0.37,0.19,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_shrieker_inner_top",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_shrieker_inner_top.png",
+        "color": [182.0,0.29,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_shrieker_side",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_shrieker_side.png",
+        "color": [168.0,0.15,0.26,0.75],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_shrieker_top",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_shrieker_top.png",
+        "color": [69.0,0.09,0.15,0.2],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sculk_vein",
+        "path": "C:/sem4/vs code/import files/blocks/sculk_vein.png",
+        "color": [191.0,0.77,0.08,0.69],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sea_lantern",
+        "path": "C:/sem4/vs code/import files/blocks/sea_lantern.png",
+        "color": [159.0,0.2,0.72,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "shroomlight",
+        "path": "C:/sem4/vs code/import files/blocks/shroomlight.png",
+        "color": [27.0,0.84,0.61,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smithing_table_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/smithing_table_bottom.png",
+        "color": [7.0,0.47,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smithing_table_front",
+        "path": "C:/sem4/vs code/import files/blocks/smithing_table_front.png",
+        "color": [357.0,0.2,0.18,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smithing_table_side",
+        "path": "C:/sem4/vs code/import files/blocks/smithing_table_side.png",
+        "color": [0.0,0.22,0.18,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smithing_table_top",
+        "path": "C:/sem4/vs code/import files/blocks/smithing_table_top.png",
+        "color": [235.0,0.1,0.25,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smoker_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/smoker_bottom.png",
+        "color": [30.0,0.02,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smoker_front",
+        "path": "C:/sem4/vs code/import files/blocks/smoker_front.png",
+        "color": [36.0,0.21,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smoker_front_on",
+        "path": "C:/sem4/vs code/import files/blocks/smoker_front_on.png",
+        "color": [35.0,0.28,0.36,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smoker_side",
+        "path": "C:/sem4/vs code/import files/blocks/smoker_side.png",
+        "color": [36.0,0.15,0.35,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smoker_top",
+        "path": "C:/sem4/vs code/import files/blocks/smoker_top.png",
+        "color": [30.0,0.02,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smooth_basalt",
+        "path": "C:/sem4/vs code/import files/blocks/smooth_basalt.png",
+        "color": [240.0,0.04,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smooth_stone",
+        "path": "C:/sem4/vs code/import files/blocks/smooth_stone.png",
+        "color": [0.0,0.0,0.62,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "smooth_stone_slab_side",
+        "path": "C:/sem4/vs code/import files/blocks/smooth_stone_slab_side.png",
+        "color": [0.0,0.0,0.65,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sniffer_egg_not_cracked_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/sniffer_egg_not_cracked_bottom.png",
+        "color": [358.0,0.5,0.12,0.65],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sniffer_egg_not_cracked_east",
+        "path": "C:/sem4/vs code/import files/blocks/sniffer_egg_not_cracked_east.png",
+        "color": [32.0,0.32,0.21,0.75],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sniffer_egg_not_cracked_north",
+        "path": "C:/sem4/vs code/import files/blocks/sniffer_egg_not_cracked_north.png",
+        "color": [38.0,0.29,0.24,0.87],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sniffer_egg_not_cracked_south",
+        "path": "C:/sem4/vs code/import files/blocks/sniffer_egg_not_cracked_south.png",
+        "color": [38.0,0.29,0.25,0.87],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sniffer_egg_not_cracked_top",
+        "path": "C:/sem4/vs code/import files/blocks/sniffer_egg_not_cracked_top.png",
+        "color": [34.0,0.33,0.26,0.65],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sniffer_egg_not_cracked_west",
+        "path": "C:/sem4/vs code/import files/blocks/sniffer_egg_not_cracked_west.png",
+        "color": [41.0,0.28,0.21,0.75],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "snow",
+        "path": "C:/sem4/vs code/import files/blocks/snow.png",
+        "color": [180.0,0.56,0.98,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "soul_campfire",
+        "path": "C:/sem4/vs code/import files/blocks/soul_campfire.png",
+        "color": [148.0,0.15,0.22,0.49],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "soul_fire_1",
+        "path": "C:/sem4/vs code/import files/blocks/soul_fire_1.png",
+        "color": [182.0,0.49,0.32,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "soul_lantern",
+        "path": "C:/sem4/vs code/import files/blocks/soul_lantern.png",
+        "color": [194.0,0.28,0.09,0.21],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "soul_sand",
+        "path": "C:/sem4/vs code/import files/blocks/soul_sand.png",
+        "color": [23.0,0.24,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "soul_soil",
+        "path": "C:/sem4/vs code/import files/blocks/soul_soil.png",
+        "color": [23.0,0.24,0.24,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "spawner",
+        "path": "C:/sem4/vs code/import files/blocks/spawner.png",
+        "color": [220.0,0.26,0.13,0.68],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "sponge",
+        "path": "C:/sem4/vs code/import files/blocks/sponge.png",
+        "color": [59.0,0.5,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "spore_blossom",
+        "path": "C:/sem4/vs code/import files/blocks/spore_blossom.png",
+        "color": [326.0,0.36,0.29,0.48],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "spore_blossom_base",
+        "path": "C:/sem4/vs code/import files/blocks/spore_blossom_base.png",
+        "color": [79.0,0.48,0.23,0.62],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "spruce_door",
+        "path": "C:/sem4/vs code/import files/blocks/spruce_door.png",
+        "color": [35.0,0.31,0.16,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "spruce_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/spruce_hanging_sign.png",
+        "color": [34.0,0.35,0.16,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "spruce_log",
+        "path": "C:/sem4/vs code/import files/blocks/spruce_log.png",
+        "color": [30.0,0.57,0.14,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "spruce_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/spruce_log_top.png",
+        "color": [33.0,0.4,0.3,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "spruce_planks",
+        "path": "C:/sem4/vs code/import files/blocks/spruce_planks.png",
+        "color": [33.0,0.41,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "spruce_sapling",
+        "path": "C:/sem4/vs code/import files/blocks/spruce_sapling.png",
+        "color": [98.0,0.27,0.06,0.32],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "spruce_sign",
+        "path": "C:/sem4/vs code/import files/blocks/spruce_sign.png",
+        "color": [33.0,0.45,0.13,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "spruce_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/spruce_trapdoor.png",
+        "color": [34.0,0.37,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stone",
+        "path": "C:/sem4/vs code/import files/blocks/stone.png",
+        "color": [0.0,0.0,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stonecutter_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/stonecutter_bottom.png",
+        "color": [300.0,0.0,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stonecutter_side",
+        "path": "C:/sem4/vs code/import files/blocks/stonecutter_side.png",
+        "color": [26.0,0.16,0.2,0.56],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "stonecutter_top",
+        "path": "C:/sem4/vs code/import files/blocks/stonecutter_top.png",
+        "color": [35.0,0.05,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stone_bricks",
+        "path": "C:/sem4/vs code/import files/blocks/stone_bricks.png",
+        "color": [300.0,0.0,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_acacia_log",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_acacia_log.png",
+        "color": [17.0,0.49,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_acacia_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_acacia_log_top.png",
+        "color": [21.0,0.53,0.42,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_bamboo_block",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_bamboo_block.png",
+        "color": [49.0,0.47,0.53,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_bamboo_block_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_bamboo_block_top.png",
+        "color": [49.0,0.42,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_birch_log",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_birch_log.png",
+        "color": [45.0,0.39,0.61,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_birch_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_birch_log_top.png",
+        "color": [44.0,0.37,0.6,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_cherry_log",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_cherry_log.png",
+        "color": [357.0,0.46,0.7,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_cherry_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_cherry_log_top.png",
+        "color": [7.0,0.48,0.74,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_crimson_stem",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_crimson_stem.png",
+        "color": [335.0,0.41,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_dark_oak_log",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_dark_oak_log.png",
+        "color": [33.0,0.33,0.21,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_dark_oak_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_dark_oak_log_top.png",
+        "color": [31.0,0.49,0.17,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_jungle_log",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_jungle_log.png",
+        "color": [33.0,0.34,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_jungle_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_jungle_log_top.png",
+        "color": [29.0,0.34,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_mangrove_log",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_mangrove_log.png",
+        "color": [6.0,0.43,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_mangrove_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_mangrove_log_top.png",
+        "color": [0.0,0.43,0.3,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_oak_log",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_oak_log.png",
+        "color": [38.0,0.37,0.51,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_oak_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_oak_log_top.png",
+        "color": [38.0,0.35,0.46,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_spruce_log",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_spruce_log.png",
+        "color": [35.0,0.38,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_spruce_log_top",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_spruce_log_top.png",
+        "color": [35.0,0.39,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "stripped_warped_stem",
+        "path": "C:/sem4/vs code/import files/blocks/stripped_warped_stem.png",
+        "color": [178.0,0.45,0.4,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "structure_block",
+        "path": "C:/sem4/vs code/import files/blocks/structure_block.png",
+        "color": [292.0,0.1,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "structure_block_corner",
+        "path": "C:/sem4/vs code/import files/blocks/structure_block_corner.png",
+        "color": [295.0,0.1,0.25,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "structure_block_data",
+        "path": "C:/sem4/vs code/import files/blocks/structure_block_data.png",
+        "color": [296.0,0.1,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "structure_block_load",
+        "path": "C:/sem4/vs code/import files/blocks/structure_block_load.png",
+        "color": [295.0,0.1,0.25,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "structure_block_save",
+        "path": "C:/sem4/vs code/import files/blocks/structure_block_save.png",
+        "color": [296.0,0.1,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "structure_void",
+        "path": "C:/sem4/vs code/import files/blocks/structure_void.png",
+        "color": [185.0,0.61,0.11,0.48],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "suspicious_gravel_0",
+        "path": "C:/sem4/vs code/import files/blocks/suspicious_gravel_0.png",
+        "color": [12.0,0.02,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "suspicious_gravel_1",
+        "path": "C:/sem4/vs code/import files/blocks/suspicious_gravel_1.png",
+        "color": [10.0,0.02,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "suspicious_gravel_2",
+        "path": "C:/sem4/vs code/import files/blocks/suspicious_gravel_2.png",
+        "color": [0.0,0.02,0.48,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "suspicious_gravel_3",
+        "path": "C:/sem4/vs code/import files/blocks/suspicious_gravel_3.png",
+        "color": [10.0,0.02,0.47,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "suspicious_sand_0",
+        "path": "C:/sem4/vs code/import files/blocks/suspicious_sand_0.png",
+        "color": [47.0,0.43,0.73,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "suspicious_sand_1",
+        "path": "C:/sem4/vs code/import files/blocks/suspicious_sand_1.png",
+        "color": [46.0,0.43,0.73,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "suspicious_sand_2",
+        "path": "C:/sem4/vs code/import files/blocks/suspicious_sand_2.png",
+        "color": [45.0,0.43,0.71,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "suspicious_sand_3",
+        "path": "C:/sem4/vs code/import files/blocks/suspicious_sand_3.png",
+        "color": [44.0,0.41,0.69,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "sweet_berry_bush_stage3",
+        "path": "C:/sem4/vs code/import files/blocks/sweet_berry_bush_stage3.png",
+        "color": [81.0,0.21,0.16,0.63],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "tall_seagrass_top",
+        "path": "C:/sem4/vs code/import files/blocks/tall_seagrass_top.png",
+        "color": [98.0,0.86,0.08,0.28],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "target_top",
+        "path": "C:/sem4/vs code/import files/blocks/target_top.png",
+        "color": [11.0,0.53,0.75,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/terracotta.png",
+        "color": [19.0,0.39,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "tinted_glass",
+        "path": "C:/sem4/vs code/import files/blocks/tinted_glass.png",
+        "color": [283.0,0.08,0.16,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "tnt_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/tnt_bottom.png",
+        "color": [7.0,0.52,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "tnt_side",
+        "path": "C:/sem4/vs code/import files/blocks/tnt_side.png",
+        "color": [2.0,0.4,0.52,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "tnt_top",
+        "path": "C:/sem4/vs code/import files/blocks/tnt_top.png",
+        "color": [6.0,0.46,0.38,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "tube_coral",
+        "path": "C:/sem4/vs code/import files/blocks/tube_coral.png",
+        "color": [226.0,0.61,0.28,0.59],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "tube_coral_block",
+        "path": "C:/sem4/vs code/import files/blocks/tube_coral_block.png",
+        "color": [225.0,0.62,0.5,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "tube_coral_fan",
+        "path": "C:/sem4/vs code/import files/blocks/tube_coral_fan.png",
+        "color": [224.0,0.62,0.15,0.3],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "tuff",
+        "path": "C:/sem4/vs code/import files/blocks/tuff.png",
+        "color": [69.0,0.03,0.41,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "turtle_egg",
+        "path": "C:/sem4/vs code/import files/blocks/turtle_egg.png",
+        "color": [71.0,0.11,0.28,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "twisting_vines_plant",
+        "path": "C:/sem4/vs code/import files/blocks/twisting_vines_plant.png",
+        "color": [172.0,0.74,0.11,0.35],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "verdant_froglight_side",
+        "path": "C:/sem4/vs code/import files/blocks/verdant_froglight_side.png",
+        "color": [113.0,0.37,0.86,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "verdant_froglight_top",
+        "path": "C:/sem4/vs code/import files/blocks/verdant_froglight_top.png",
+        "color": [116.0,0.4,0.92,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "warped_door",
+        "path": "C:/sem4/vs code/import files/blocks/warped_door.png",
+        "color": [176.0,0.49,0.19,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "warped_door_bottom",
+        "path": "C:/sem4/vs code/import files/blocks/warped_door_bottom.png",
+        "color": [175.0,0.47,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "warped_door_top",
+        "path": "C:/sem4/vs code/import files/blocks/warped_door_top.png",
+        "color": [176.0,0.48,0.33,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "warped_hanging_sign",
+        "path": "C:/sem4/vs code/import files/blocks/warped_hanging_sign.png",
+        "color": [176.0,0.39,0.17,0.57],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "warped_nylium",
+        "path": "C:/sem4/vs code/import files/blocks/warped_nylium.png",
+        "color": [169.0,0.45,0.31,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "warped_nylium_side",
+        "path": "C:/sem4/vs code/import files/blocks/warped_nylium_side.png",
+        "color": [9.0,0.1,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "warped_planks",
+        "path": "C:/sem4/vs code/import files/blocks/warped_planks.png",
+        "color": [175.0,0.41,0.29,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "warped_roots_pot",
+        "path": "C:/sem4/vs code/import files/blocks/warped_roots_pot.png",
+        "color": [174.0,0.76,0.08,0.27],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "warped_sign",
+        "path": "C:/sem4/vs code/import files/blocks/warped_sign.png",
+        "color": [180.0,0.42,0.14,0.51],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "warped_stem",
+        "path": "C:/sem4/vs code/import files/blocks/warped_stem.png",
+        "color": [240.0,0.14,0.26,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "warped_stem_top",
+        "path": "C:/sem4/vs code/import files/blocks/warped_stem_top.png",
+        "color": [181.0,0.35,0.32,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "warped_trapdoor",
+        "path": "C:/sem4/vs code/import files/blocks/warped_trapdoor.png",
+        "color": [174.0,0.43,0.25,0.78],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "warped_wart_block",
+        "path": "C:/sem4/vs code/import files/blocks/warped_wart_block.png",
+        "color": [181.0,0.69,0.28,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "weathered_copper",
+        "path": "C:/sem4/vs code/import files/blocks/weathered_copper.png",
+        "color": [123.0,0.18,0.51,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "weathered_cut_copper",
+        "path": "C:/sem4/vs code/import files/blocks/weathered_cut_copper.png",
+        "color": [117.0,0.15,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "weeping_vines_plant",
+        "path": "C:/sem4/vs code/import files/blocks/weeping_vines_plant.png",
+        "color": [2.0,0.84,0.12,0.45],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "wet_sponge",
+        "path": "C:/sem4/vs code/import files/blocks/wet_sponge.png",
+        "color": [65.0,0.44,0.49,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "wheat_stage7",
+        "path": "C:/sem4/vs code/import files/blocks/wheat_stage7.png",
+        "color": [51.0,0.4,0.25,0.54],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "white_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/white_concrete.png",
+        "color": [189.0,0.08,0.82,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "white_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/white_concrete_powder.png",
+        "color": [180.0,0.03,0.88,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "white_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/white_glazed_terracotta.png",
+        "color": [155.0,0.21,0.78,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "white_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/white_shulker_box.png",
+        "color": [190.0,0.08,0.85,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "white_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/white_stained_glass.png",
+        "color": [0.0,0.0,1.0,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "white_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/white_stained_glass_pane_top.png",
+        "color": [0.0,0.0,0.12,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "white_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/white_terracotta.png",
+        "color": [21.0,0.34,0.72,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "white_wool",
+        "path": "C:/sem4/vs code/import files/blocks/white_wool.png",
+        "color": [180.0,0.07,0.92,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "yellow_concrete",
+        "path": "C:/sem4/vs code/import files/blocks/yellow_concrete.png",
+        "color": [42.0,0.87,0.51,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "yellow_concrete_powder",
+        "path": "C:/sem4/vs code/import files/blocks/yellow_concrete_powder.png",
+        "color": [49.0,0.79,0.56,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "yellow_glazed_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/yellow_glazed_terracotta.png",
+        "color": [43.0,0.77,0.63,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "yellow_shulker_box",
+        "path": "C:/sem4/vs code/import files/blocks/yellow_shulker_box.png",
+        "color": [44.0,0.93,0.54,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "yellow_stained_glass",
+        "path": "C:/sem4/vs code/import files/blocks/yellow_stained_glass.png",
+        "color": [60.0,0.77,0.55,0.46],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "yellow_stained_glass_pane_top",
+        "path": "C:/sem4/vs code/import files/blocks/yellow_stained_glass_pane_top.png",
+        "color": [60.0,0.64,0.06,0.11],
+        "transparent": true,
+        "exclusive": false
+    },
+    {
+        "name": "yellow_terracotta",
+        "path": "C:/sem4/vs code/import files/blocks/yellow_terracotta.png",
+        "color": [39.0,0.68,0.43,1.0],
+        "transparent": false,
+        "exclusive": false
+    },
+    {
+        "name": "yellow_wool",
+        "path": "C:/sem4/vs code/import files/blocks/yellow_wool.png",
+        "color": [45.0,0.93,0.56,1.0],
+        "transparent": false,
+        "exclusive": false
+    }
+]
