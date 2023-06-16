@@ -72,5 +72,6 @@ async function getInputs() {
         temp.setAttribute("href", img)
         output.appendChild(temp)
     });
+    console.log(response);
 }
 randgen();

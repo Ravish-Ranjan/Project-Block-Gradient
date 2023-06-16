@@ -14,7 +14,7 @@ def toRelativePath(path):
 def convert_to_bool(x):
     temp = True
     for v in x:
-        temp = temp&v
+        temp = temp and v
     return temp
 
 def generateResponse(f,t,b):
