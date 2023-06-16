@@ -54,12 +54,16 @@ function rangeSet() {
     document.getElementById('custsize').value = document.getElementById('size').value;
 }
 
-function getInputs() {
+async function getInputs() {
     from_color = hexToHSL(from_.value);
     to_color = hexToHSL(to.value);
     rangeInp = document.getElementById('size').value;
     numInp = document.getElementById('custsize').value;
     blockNo = parseInt(numInp == "" ? rangeInp : numInp);
-    console.log(from_color,to_color,blockNo);
+    resp = { from_color, to_color, blockNo }
+    const loc = window.location.href;
+    let response = await fetch(loc + "blocks?" + (new URLSearchParams({data:JSON.stringify(resp)})),{ method: "GET", mode: "cors" } )
+    response = await response.json()
+    console.log(response)
 }
 randgen();
