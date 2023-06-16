@@ -30,7 +30,7 @@ def dictgenerator(filename):
     filepath = block_root+filename
     col = avgimg(filepath)
     trans = False
-    if col[3] != 1:
+    if col[3] != 255:
         trans = True
     block_id = {
         "name":filename.split(".png")[0],
