@@ -15,16 +15,24 @@ const con = async (from, to, blocks) => {
     }
     return PythonShell.run("Python/backend.py", options)
 }
+let r = {"status":false}
 app.get("/blocks", (req, res) => {
     let { data } = req.query
     let { from_color, to_color, blockNo } = JSON.parse(req.query.data)
-    con(from_color, to_color, blockNo).then((msg, err) => {
-        if(err)
-            throw err;
-        else
-            log(msg)
-    })
-    res.status(200).json({"status":true,"data":data})
+    try {
+        con(from_color, to_color, blockNo).then((msg, err) => {
+            if(err)
+                throw err;
+            else {
+                r["status"] = true
+                r["blocks"] = msg
+                res.status(200).json(r)
+            }
+        })
+    }
+    catch {
+        res.status(404).json(r)
+    }
 })
 app.listen(5000, () => {
     log("server running at port 5000")
