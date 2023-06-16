@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="Stylesheets/style.css" type="text/css">
+    </head>
+    <body>
+        <div class="cont-wrapper">
+            <div class="color-range">
+                <label for="from"  title="color range starting"><img src="media/bpick.svg" alt=""></label>
+                <input type="color" oninput="gradientSet(from_.value,to.value)" name="from" id="from">
+                <button onclick="randgen()" title="Random Gradient" id="randcolor"><img src="media/random.svg" alt=""></button>
+                <input type="color" oninput="gradientSet(from_.value,to.value)" name="to" id="to">
+                <label for="to" title="color range ending"><img src="media/bpick.svg" alt=""></label>
+            </div>
+            <div class="input-size divis">
+                <h1>Pallet Size</h1>
+                <input type="range" name="size" id="size" min="5" max="25" value="5" step="5" oninput="rangeSet()">
+                <input type="number" name="custsize" id="custsize" min="5" max="25" placeholder="Enter custom size">
+            </div>
+            <div class="control divis">
+                <div class="chk">
+                    <input type="checkbox" name="trans" id="trans">
+                    <label for="trans">Include Transparent Blocks</label>
+                </div>
+                <div class="chk">
+                    <input type="checkbox" name="excl" id="excl">
+                    <label for="trans" title="Blocks obtained only in creative or by commands">Include Exclusive Blocks</label>
+                </div>
+                <button id="generate" onclick="getInputs()">generate</button>
+            </div>
+            <div class="output divis"></div>
+        </div>
+        <script src="Scripts/script.js" type="text/js"></script>
+    </body>
+</html>
