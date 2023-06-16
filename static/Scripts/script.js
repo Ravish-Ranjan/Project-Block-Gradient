@@ -73,5 +73,6 @@ async function getInputs() {
         temp.setAttribute("alt", "loading image")
         output.appendChild(temp)
     });
+    console.log(response);
 }
 randgen();
