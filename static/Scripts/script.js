@@ -65,11 +65,11 @@ async function getInputs() {
     let response = await fetch(loc + "blocks?" + (new URLSearchParams({data:JSON.stringify(resp)})),{ method: "GET", mode: "cors" } )
     response = await response.json()
     response = JSON.parse(response.blocks[0].replaceAll(/'+/g, "\""))
-    
     const output = document.getElementById("output");
     response.forEach(img => {
         temp = document.createElement("img")
-        temp.setAttribute("href", img)
+        temp.setAttribute("src", img)
+        temp.setAttribute("alt", "loading image")
         output.appendChild(temp)
     });
     console.log(response);
