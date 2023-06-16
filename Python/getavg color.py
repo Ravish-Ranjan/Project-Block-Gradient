@@ -2,13 +2,6 @@ from PIL import Image
 import json
 import colorsys
 
-def rgba_to_hsla(rgba):
-    r,g,b,a = rgba
-    tohls = colorsys.rgb_to_hls(r/256,g/256,b/256)
-    h,l,s = tohls
-    h *=360
-    return[round(h,0),round(s,2),round(l,2),round(a/256,2)]
-
 def avgimg(filepath):
     img = Image.open(filepath)
     pixeldata = img.load()
@@ -27,10 +20,10 @@ def avgimg(filepath):
     g = int(g/256)
     b = int(b/256)
     a = int(a/256)
-    return rgba_to_hsla([r,g,b,a])
+    return[r,g,b,a]
 
-blockget = "C:/sem4/vs code/project blocks/scandir.json"
-blockpost = "C:/sem4/vs code/project blocks/block color data.json"
+blockget = "C:/Users/DELL/OneDrive/Documents/GitHub/Project-Block-Gradient/JSON/scandir.json"
+blockpost = "C:/Users/DELL/OneDrive/Documents/GitHub/Project-Block-Gradient/JSON/block color data.json"
 
 def dictgenerator(filename):
     global block_root
