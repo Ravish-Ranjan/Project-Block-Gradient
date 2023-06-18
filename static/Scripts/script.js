@@ -28,6 +28,7 @@ function hexToHSL(hex) {
 
 let from_ = document.getElementById('from');
 let to = document.getElementById('to');
+let between = document.getElementById('between');
 
 const HEXer = (color) => {
     const hexadecimal = color.toString(16);
@@ -36,9 +37,9 @@ const HEXer = (color) => {
 
 const RGBtoHex = (red, green, blue) => {return "#"+HEXer(red)+HEXer(green)+HEXer(blue);}
 
-function gradientSet(fromcolor,tocolor) {
+function gradientSet(fromcolor,betweenColor,tocolor) {
     divi = document.getElementsByClassName('color-range')[0];
-    divi.style.backgroundImage = `linear-gradient(to bottom,${fromcolor},${tocolor})`;
+    divi.style.backgroundImage = `linear-gradient(to bottom,${fromcolor},${betweenColor},${tocolor})`;
 }
 
 function randnum(){ return Math.floor(Math.random() * 255);}
@@ -46,7 +47,8 @@ function randnum(){ return Math.floor(Math.random() * 255);}
 function randgen() {
     fromcol = RGBtoHex(randnum(),randnum(),randnum());
     tocol = RGBtoHex(randnum(),randnum(),randnum());
-    gradientSet(`${fromcol}`,`${tocol}`);
+    betweencol = RGBtoHex(randnum(),randnum(),randnum());
+    gradientSet(`${fromcol}`,`${betweencol}`,`${tocol}`);
     from_.value = fromcol;
     to.value = tocol;
 }
@@ -57,10 +59,11 @@ function rangeSet() {
 async function getInputs() {
     from_color = hexToHSL(from_.value);
     to_color = hexToHSL(to.value);
+    between_color = hexToHSL(between.value);
     rangeInp = document.getElementById('size').value;
     numInp = document.getElementById('custsize').value;
     blockNo = parseInt(numInp == "" ? rangeInp : numInp);
-    resp = { from_color, to_color, blockNo }
+    resp = { from_color, to_color,between_color, blockNo }
     const loc = window.location.href;
     let response = await fetch(loc + "blocks?" + (new URLSearchParams({data:JSON.stringify(resp)})),{ method: "GET", mode: "cors" } )
     response = await response.json()
@@ -77,10 +80,11 @@ async function getInputs() {
 }
 randgen();
 document.getElementById("to").addEventListener("input", (e) => {
-    gradientSet(from_.value,to.value)
-    getInputs()
+    gradientSet(from_.value,between.value,to.value)
 })
 document.getElementById("from").addEventListener("input", (e) => {
-    gradientSet(from_.value,to.value)
-    getInputs()
+    gradientSet(from_.value,between.value,to.value)
+})
+document.getElementById("between").addEventListener("input", (e) => {
+    gradientSet(from_.value,between.value,to.value)
 })

@@ -36,7 +36,7 @@ body{
     outline: 2px solid white;
     border-radius: .5rem;
 }
-#from,#to{
+#from,#to,#between{
     border: none;
     background-color: transparent;
     aspect-ratio: 1/1;

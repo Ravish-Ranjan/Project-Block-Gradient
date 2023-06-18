@@ -18,10 +18,10 @@ def convert_to_bool(x):
     return temp
 
 def check(x,p,q,r,y):
-    temp = (p*x[0]+q*x[1]+r*x[2] - p*y[0]+q*y[1]+r*y[2] == 0)
+    temp = (p*x[0]+q*x[1]+r*x[2] - p*y[0]+q*y[1]+r*y[2] <= 0)
     return temp
 
-def generateResponse(f,t,b):    
+def generateResponse(f,t,bt,b):    
     data = pd.read_json("./JSON/block color data.json")
     data["path"] = data["path"].apply(toRelativePath)
     data["color"] = data["color"].apply(lambda x:np.array(x))
@@ -29,12 +29,12 @@ def generateResponse(f,t,b):
     lower = np.array([float(f['h']),float(f['s']),float(f['l'])])
     upper = np.array([float(t['h']),float(t['s']),float(t['l'])])
     
-    res = np.random.uniform(0,255,3).round(0)
+    res = np.array([float(bt['h']),float(bt['s']),float(bt['l'])])
     a = lower-res
     b = upper-res
     [p,q,r] = np.cross(a,b)
     
-    temp = data["color"].apply(lambda x: check(x,p,q,r,lower)).sort_index()
+    temp = data["color"].apply(lambda x: check(x,p,q,r,a)).sort_index()
     
     arr = [x for x in data[temp]["path"]]
 
@@ -45,5 +45,6 @@ def generateResponse(f,t,b):
 # blocks = 5
 from_color = json.loads(sys.argv[1])
 to_color = json.loads(sys.argv[2])
-blocks = int(sys.argv[3])
-print(generateResponse(from_color,to_color,blocks)[:blocks])
+between_color = json.loads(sys.argv[3])
+blocks = int(sys.argv[4])
+print(generateResponse(from_color,to_color,between_color,blocks)[:blocks])

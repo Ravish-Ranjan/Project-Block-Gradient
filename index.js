@@ -7,20 +7,20 @@ app.use(express.urlencoded({ extended: false }))
 app.use(express.static("static"))
 
 
-const con = async (from, to, blocks) => {
+const con = async (from, to,between, blocks) => {
     let options = {
         mode: "text",
         pythonOptions: ['-u'],
-        args : [JSON.stringify(from),JSON.stringify(to),blocks]
+        args : [JSON.stringify(from),JSON.stringify(to),JSON.stringify(between),blocks]
     }
     return PythonShell.run("Python/backend.py", options)
 }
 let r = {"status":false}
 app.get("/blocks", (req, res) => {
     let { data } = req.query
-    let { from_color, to_color, blockNo } = JSON.parse(req.query.data)
+    let { from_color, to_color,between_color, blockNo } = JSON.parse(req.query.data)
     try {
-        con(from_color, to_color, blockNo).then((msg, err) => {
+        con(from_color, to_color,between_color, blockNo).then((msg, err) => {
             if(err)
                 throw err;
             else {
