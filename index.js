@@ -29,7 +29,8 @@ app.get("/blocks", (req, res) => {
             }
         })
     }
-    catch {
+    catch(e){
+        r['error'] = e 
         res.status(404).json(r)
     }
 })
