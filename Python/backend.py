@@ -28,10 +28,10 @@ def generateResponse(f,t,bt,b):
     
     lower = np.array([float(f['h']),float(f['s']),float(f['l'])])
     upper = np.array([float(t['h']),float(t['s']),float(t['l'])])
+    bet = np.array([float(bt['h']),float(bt['s']),float(bt['l'])])
+    a = lower-bet
+    b = upper-bet
     
-    res = np.array([float(bt['h']),float(bt['s']),float(bt['l'])])
-    a = lower-res
-    b = upper-res
     [p,q,r] = np.cross(a,b)
     
     temp = data["color"].apply(lambda x: check(x,p,q,r,a)).sort_index()

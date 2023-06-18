@@ -17,9 +17,8 @@ const con = async (from, to,between, blocks) => {
 }
 let r = {"status":false}
 app.get("/blocks", (req, res) => {
-    let { data } = req.query
-    let { from_color, to_color,between_color, blockNo } = JSON.parse(req.query.data)
     try {
+        let { from_color, to_color,between_color, blockNo } = JSON.parse(req.query.data)
         con(from_color, to_color,between_color, blockNo).then((msg, err) => {
             if(err)
                 throw err;
