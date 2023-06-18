@@ -66,12 +66,21 @@ async function getInputs() {
     response = await response.json()
     response = JSON.parse(response.blocks[0].replaceAll(/'+/g, "\""))
     const output = document.getElementById("output");
+    output.innerHTML = ""
     response.forEach(img => {
         temp = document.createElement("img")
         temp.setAttribute("src", img)
         temp.setAttribute("alt", "loading image")
         output.appendChild(temp)
     });
-    console.log(response);
+    // console.log(response);
 }
 randgen();
+document.getElementById("to").addEventListener("input", (e) => {
+    gradientSet(from_.value,to.value)
+    getInputs()
+})
+document.getElementById("from").addEventListener("input", (e) => {
+    gradientSet(from_.value,to.value)
+    getInputs()
+})

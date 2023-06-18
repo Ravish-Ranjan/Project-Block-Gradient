@@ -16,38 +16,34 @@ def convert_to_bool(x):
     for v in x:
         temp = temp and v
     return temp
-def generateResponse(f,t,b):
-    iter = 0
-    while iter<10:
-        filter_s1 = 0.5
-        filter_s2 = 0.45
-        
-        data = pd.read_json("./JSON/block color data.json")
-        data["path"] = data["path"].apply(toRelativePath)
-        data["color"] = data["color"].apply(lambda x:np.array(x))
-        
-        lower = np.array([float(f['h']),float(f['s']),float(f['l'])])
-        upper = np.array([float(t['h']),float(t['s']),float(t['l'])])
-        
-        
-        h1 = data["color"].apply(lambda x : x[0]<upper[0])
-        h2 = data["color"].apply(lambda x : x[0]>lower[0])
-        
-        s1 = data["color"].apply(lambda x: x[1]<filter_s1)
-        s2 = data["color"].apply(lambda x: x[1]>filter_s2)
-        
-        temp = h1 & h2 & s1 & s2
-        if(data[temp].size==0):
-            filter_s1 += 0.05
-            filter_s2 -= 0.05
-            iter+=1
-        else:
-            break
-    arr = [x for x in data[temp]["path"].head(b)]
+
+def check(x,p,q,r,y):
+    temp = (p*x[0]+q*x[1]+r*x[2] - p*y[0]+q*y[1]+r*y[2] == 0)
+    return temp
+
+def generateResponse(f,t,b):    
+    data = pd.read_json("./JSON/block color data.json")
+    data["path"] = data["path"].apply(toRelativePath)
+    data["color"] = data["color"].apply(lambda x:np.array(x))
+    
+    lower = np.array([float(f['h']),float(f['s']),float(f['l'])])
+    upper = np.array([float(t['h']),float(t['s']),float(t['l'])])
+    
+    res = np.random.uniform(0,255,3).round(0)
+    a = lower-res
+    b = upper-res
+    [p,q,r] = np.cross(a,b)
+    
+    temp = data["color"].apply(lambda x: check(x,p,q,r,lower)).sort_index()
+    
+    arr = [x for x in data[temp]["path"]]
+
     return arr
 
-
+# from_color = {"h":85,"s":"0.31","l":"0.45"}
+# to_color = {"h":257,"s":"0.34","l":"0.32"}
+# blocks = 5
 from_color = json.loads(sys.argv[1])
 to_color = json.loads(sys.argv[2])
 blocks = int(sys.argv[3])
-print(generateResponse(from_color,to_color,blocks))
+print(generateResponse(from_color,to_color,blocks)[:blocks])
